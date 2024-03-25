@@ -1,0 +1,1648 @@
+SubjectID,Block,Task,Set,Valid,Inputs,NPID,AID,Handedness,SpeechImped,NativeLang,NativeLangProf,SecondLang,SecondLangProf,MusicInstrument,MusicDur,hem,superiortemporal,middletemporal,precentral,postcentral,supramarginal,parsopercularis,rostralmiddlefrontal,parstriangularis,Left-Cerebral-White-Matter,Unknown
+EC6,36,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,72,33,39,35,11,24,3,31,0,0
+EC6,38,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,72,33,39,35,11,24,3,31,0,0
+EC6,42,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,72,33,39,35,11,24,3,31,0,0
+EC28,3,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,66,26,51,37,10,15,22,20,0,0
+EC28,4,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,66,26,51,37,10,15,22,20,0,0
+EC28,6,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,66,26,51,37,10,15,22,20,0,0
+EC28,7,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,66,26,51,37,10,15,22,20,0,0
+EC28,13,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,66,26,51,37,10,15,22,20,0,0
+EC28,19,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,66,26,51,37,10,15,22,20,0,0
+EC28,21,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,66,26,51,37,10,15,22,20,0,0
+EC28,23,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,66,26,51,37,10,15,22,20,0,0
+EC28,28,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,66,26,51,37,10,15,22,20,0,0
+EC28,30,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,66,26,51,37,10,15,22,20,0,0
+EC28,36,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,66,26,51,37,10,15,22,20,0,0
+EC28,40,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,66,26,51,37,10,15,22,20,0,0
+EC34,5,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,44,43,21,56,16,11,3,0,0
+EC34,10,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,44,43,21,56,16,11,3,0,0
+EC34,14,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,44,43,21,56,16,11,3,0,0
+EC34,17,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,44,43,21,56,16,11,3,0,0
+EC34,40,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,44,43,21,56,16,11,3,0,0
+EC34,44,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,44,43,21,56,16,11,3,0,0
+EC34,47,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,44,43,21,56,16,11,3,0,0
+EC34,51,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,44,43,21,56,16,11,3,0,0
+EC35,1,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,20,53,43,40,12,4,5,0,0
+EC35,2,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,20,53,43,40,12,4,5,0,0
+EC35,5,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,20,53,43,40,12,4,5,0,0
+EC35,6,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,20,53,43,40,12,4,5,0,0
+EC35,9,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,20,53,43,40,12,4,5,0,0
+EC35,10,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,20,53,43,40,12,4,5,0,0
+EC35,13,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,20,53,43,40,12,4,5,0,0
+EC35,14,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,20,53,43,40,12,4,5,0,0
+EC35,33,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,20,53,43,40,12,4,5,0,0
+EC35,42,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,20,53,43,40,12,4,5,0,0
+EC36,4,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,43,46,27,38,10,9,0,0,0
+EC36,9,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,43,46,27,38,10,9,0,0,0
+EC36,12,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,43,46,27,38,10,9,0,0,0
+EC36,14,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,43,46,27,38,10,9,0,0,0
+EC36,18,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,43,46,27,38,10,9,0,0,0
+EC36,21,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,43,46,27,38,10,9,0,0,0
+EC36,24,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,43,46,27,38,10,9,0,0,0
+EC36,26,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,43,46,27,38,10,9,0,0,0
+EC36,47,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,43,46,27,38,10,9,0,0,0
+EC36,67,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,43,46,27,38,10,9,0,0,0
+EC37,2,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,59,55,39,42,29,29,0,0,0,0
+EC37,4,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,59,55,39,42,29,29,0,0,0,0
+EC37,9,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,59,55,39,42,29,29,0,0,0,0
+EC37,12,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,59,55,39,42,29,29,0,0,0,0
+EC37,17,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,59,55,39,42,29,29,0,0,0,0
+EC37,34,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,59,55,39,42,29,29,0,0,0,0
+EC37,35,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,59,55,39,42,29,29,0,0,0,0
+EC37,43,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,59,55,39,42,29,29,0,0,0,0
+EC37,44,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,59,55,39,42,29,29,0,0,0,0
+EC37,60,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,59,55,39,42,29,29,0,0,0,0
+EC41,1,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,62,27,51,37,54,3,0,0,0,0
+EC41,2,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,62,27,51,37,54,3,0,0,0,0
+EC41,3,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,62,27,51,37,54,3,0,0,0,0
+EC41,6,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,62,27,51,37,54,3,0,0,0,0
+EC41,9,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,62,27,51,37,54,3,0,0,0,0
+EC41,12,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,62,27,51,37,54,3,0,0,0,0
+EC41,16,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,62,27,51,37,54,3,0,0,0,0
+EC41,21,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,62,27,51,37,54,3,0,0,0,0
+EC41,23,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,62,27,51,37,54,3,0,0,0,0
+EC41,25,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,62,27,51,37,54,3,0,0,0,0
+EC50,4,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,6,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,9,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,11,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,12,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,16,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,19,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,28,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,31,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,33,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,50,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,51,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,52,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC52,1,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,46,17,38,52,77,0,0,0,0,0
+EC52,9,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,46,17,38,52,77,0,0,0,0,0
+EC52,10,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,46,17,38,52,77,0,0,0,0,0
+EC52,11,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,46,17,38,52,77,0,0,0,0,0
+EC52,12,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,46,17,38,52,77,0,0,0,0,0
+EC52,13,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,46,17,38,52,77,0,0,0,0,0
+EC52,14,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,46,17,38,52,77,0,0,0,0,0
+EC52,15,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,46,17,38,52,77,0,0,0,0,0
+EC52,17,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,46,17,38,52,77,0,0,0,0,0
+EC52,18,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,46,17,38,52,77,0,0,0,0,0
+EC52,19,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,46,17,38,52,77,0,0,0,0,0
+EC53,1,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,66,36,42,39,32,15,7,0,0,0
+EC53,2,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,66,36,42,39,32,15,7,0,0,0
+EC53,3,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,66,36,42,39,32,15,7,0,0,0
+EC53,4,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,66,36,42,39,32,15,7,0,0,0
+EC53,5,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,66,36,42,39,32,15,7,0,0,0
+EC53,7,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,66,36,42,39,32,15,7,0,0,0
+EC55,2,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,75,39,38,38,33,23,3,0,0,0
+EC55,3,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,75,39,38,38,33,23,3,0,0,0
+EC55,6,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,75,39,38,38,33,23,3,0,0,0
+EC55,10,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,75,39,38,38,33,23,3,0,0,0
+EC55,14,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,75,39,38,38,33,23,3,0,0,0
+EC55,22,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,75,39,38,38,33,23,3,0,0,0
+EC55,29,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,75,39,38,38,33,23,3,0,0,0
+EC55,30,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,75,39,38,38,33,23,3,0,0,0
+EC55,31,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,75,39,38,38,33,23,3,0,0,0
+EC55,32,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,75,39,38,38,33,23,3,0,0,0
+EC55,37,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,75,39,38,38,33,23,3,0,0,0
+EC56,5,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,12,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,25,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,33,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,47,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,53,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,55,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,60,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,66,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,72,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC57,4,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,0,0,0,0,0,0,0,3
+EC58,6,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC58,7,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC58,8,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC58,16,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC58,17,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC60,1,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,8,45,43,22,16,25,19,0,0
+EC60,2,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,8,45,43,22,16,25,19,0,0
+EC60,7,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,8,45,43,22,16,25,19,0,0
+EC60,9,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,8,45,43,22,16,25,19,0,0
+EC60,10,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,8,45,43,22,16,25,19,0,0
+EC61,1,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,5,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,7,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,11,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,16,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,29,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,39,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,58,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,59,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,62,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,69,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC69,7,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,38,62,53,52,23,18,5,1,1,0
+EC69,8,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,38,62,53,52,23,18,5,1,1,0
+EC69,9,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,38,62,53,52,23,18,5,1,1,0
+EC69,18,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,38,62,53,52,23,18,5,1,1,0
+EC69,31,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,38,62,53,52,23,18,5,1,1,0
+EC70,4,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,57,31,41,48,26,25,12,2,6,0
+EC70,6,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,57,31,41,48,26,25,12,2,6,0
+EC70,7,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,57,31,41,48,26,25,12,2,6,0
+EC70,9,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,57,31,41,48,26,25,12,2,6,0
+EC70,16,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,57,31,41,48,26,25,12,2,6,0
+EC71,1,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,11,5,12,7,7,7,9,1,10,2
+EC71,5,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,11,5,12,7,7,7,9,1,10,2
+EC71,25,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,11,5,12,7,7,7,9,1,10,2
+EC72,5,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,14,8,10,6,9,5,4,5,0,1
+EC73,13,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,bilateralOrUnknown,16,0,11,14,14,4,15,5,0,0
+EC73,14,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,bilateralOrUnknown,16,0,11,14,14,4,15,5,0,0
+EC73,18,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,bilateralOrUnknown,16,0,11,14,14,4,15,5,0,0
+EC73,19,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,bilateralOrUnknown,16,0,11,14,14,4,15,5,0,0
+EC73,21,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,bilateralOrUnknown,16,0,11,14,14,4,15,5,0,0
+EC74,1,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,12,12,9,7,20,6,0,2,2,0
+EC74,4,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,12,12,9,7,20,6,0,2,2,0
+EC74,8,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,12,12,9,7,20,6,0,2,2,0
+EC74,14,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,12,12,9,7,20,6,0,2,2,0
+EC74,15,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,12,12,9,7,20,6,0,2,2,0
+EC74,18,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,12,12,9,7,20,6,0,2,2,0
+EC74,21,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,12,12,9,7,20,6,0,2,2,0
+EC74,28,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,12,12,9,7,20,6,0,2,2,0
+EC74,39,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,12,12,9,7,20,6,0,2,2,0
+EC74,53,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,12,12,9,7,20,6,0,2,2,0
+EC74,60,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,12,12,9,7,20,6,0,2,2,0
+EC75,1,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,22,10,0,0,0,0,0,0,0,0
+EC75,2,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,22,10,0,0,0,0,0,0,0,0
+EC75,3,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,22,10,0,0,0,0,0,0,0,0
+EC75,4,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,22,10,0,0,0,0,0,0,0,0
+EC75,5,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,22,10,0,0,0,0,0,0,0,0
+EC77,47,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,65,27,41,33,13,17,24,32,0,1
+EC77,48,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,65,27,41,33,13,17,24,32,0,1
+EC77,50,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,65,27,41,33,13,17,24,32,0,1
+EC77,51,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,65,27,41,33,13,17,24,32,0,1
+EC77,56,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,65,27,41,33,13,17,24,32,0,1
+EC79,3,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,48,42,37,25,15,11,10,0,3
+EC79,6,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,48,42,37,25,15,11,10,0,3
+EC79,11,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,48,42,37,25,15,11,10,0,3
+EC79,12,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,48,42,37,25,15,11,10,0,3
+EC79,18,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,48,42,37,25,15,11,10,0,3
+EC81,1,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,42,29,53,43,21,18,13,17,0,2
+EC81,6,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,42,29,53,43,21,18,13,17,0,2
+EC81,12,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,42,29,53,43,21,18,13,17,0,2
+EC81,15,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,42,29,53,43,21,18,13,17,0,2
+EC81,17,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,42,29,53,43,21,18,13,17,0,2
+EC81,19,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,42,29,53,43,21,18,13,17,0,2
+EC82,46,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC82,51,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC82,55,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC82,59,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC82,62,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC82,68,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC82,71,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC82,73,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC82,74,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC82,78,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC84,9,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,18,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,37,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,44,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,45,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC85,1,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,24,48,35,34,24,9,11,0,0
+EC85,2,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,24,48,35,34,24,9,11,0,0
+EC85,3,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,24,48,35,34,24,9,11,0,0
+EC85,4,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,24,48,35,34,24,9,11,0,0
+EC85,5,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,24,48,35,34,24,9,11,0,0
+EC86,1,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,46,54,33,27,20,6,3,8,2
+EC86,2,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,46,54,33,27,20,6,3,8,2
+EC86,3,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,46,54,33,27,20,6,3,8,2
+EC86,5,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,46,54,33,27,20,6,3,8,2
+EC86,6,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,46,54,33,27,20,6,3,8,2
+EC88,1,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,58,32,40,51,32,20,3,6,0,0
+EC88,3,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,58,32,40,51,32,20,3,6,0,0
+EC88,6,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,58,32,40,51,32,20,3,6,0,0
+EC88,7,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,58,32,40,51,32,20,3,6,0,0
+EC88,8,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,58,32,40,51,32,20,3,6,0,0
+EC88,9,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,58,32,40,51,32,20,3,6,0,0
+EC89,1,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,68,22,50,27,27,18,5,27,0,0
+EC89,2,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,68,22,50,27,27,18,5,27,0,0
+EC89,3,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,68,22,50,27,27,18,5,27,0,0
+EC89,4,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,68,22,50,27,27,18,5,27,0,0
+EC89,5,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,68,22,50,27,27,18,5,27,0,0
+EC91,19,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,31,42,34,53,12,10,6,2,2
+EC91,20,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,31,42,34,53,12,10,6,2,2
+EC91,22,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,31,42,34,53,12,10,6,2,2
+EC91,23,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,31,42,34,53,12,10,6,2,2
+EC91,24,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,31,42,34,53,12,10,6,2,2
+EC91,37,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,31,42,34,53,12,10,6,2,2
+EC92,4,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,44,67,34,38,35,27,7,1,6,5
+EC92,5,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,44,67,34,38,35,27,7,1,6,5
+EC92,17,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,44,67,34,38,35,27,7,1,6,5
+EC92,19,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,44,67,34,38,35,27,7,1,6,5
+EC92,25,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,44,67,34,38,35,27,7,1,6,5
+EC96,3,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,7,54,54,39,17,11,2,0,1
+EC96,6,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,7,54,54,39,17,11,2,0,1
+EC96,11,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,7,54,54,39,17,11,2,0,1
+EC96,14,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,7,54,54,39,17,11,2,0,1
+EC96,19,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,7,54,54,39,17,11,2,0,1
+EC96,21,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,7,54,54,39,17,11,2,0,1
+EC96,29,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,7,54,54,39,17,11,2,0,1
+EC98,1,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,0,0,0,0,0,0,0,0
+EC98,3,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,0,0,0,0,0,0,0,0
+EC98,4,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,0,0,0,0,0,0,0,0
+EC98,5,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,0,0,0,0,0,0,0,0
+EC98,9,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,0,0,0,0,0,0,0,0
+EC98,22,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,0,0,0,0,0,0,0,0
+EC100,15,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,58,48,40,14,37,26,17,13,27,2
+EC100,30,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,58,48,40,14,37,26,17,13,27,2
+EC100,33,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,58,48,40,14,37,26,17,13,27,2
+EC100,35,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,58,48,40,14,37,26,17,13,27,2
+EC100,36,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,58,48,40,14,37,26,17,13,27,2
+EC104,1,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,bilateralOrUnknown,0,0,0,0,0,0,0,0,20,24
+EC104,5,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,bilateralOrUnknown,0,0,0,0,0,0,0,0,20,24
+EC104,8,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,bilateralOrUnknown,0,0,0,0,0,0,0,0,20,24
+EC104,10,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,bilateralOrUnknown,0,0,0,0,0,0,0,0,20,24
+EC104,11,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,bilateralOrUnknown,0,0,0,0,0,0,0,0,20,24
+EC105,3,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,57,36,38,31,30,17,16,31,1,8
+EC105,7,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,57,36,38,31,30,17,16,31,1,8
+EC105,14,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,57,36,38,31,30,17,16,31,1,8
+EC105,18,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,57,36,38,31,30,17,16,31,1,8
+EC105,20,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,57,36,38,31,30,17,16,31,1,8
+EC105,25,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,57,36,38,31,30,17,16,31,1,8
+EC105,28,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,57,36,38,31,30,17,16,31,1,8
+EC105,31,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,57,36,38,31,30,17,16,31,1,8
+EC105,35,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,57,36,38,31,30,17,16,31,1,8
+EC105,38,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,57,36,38,31,30,17,16,31,1,8
+EC107,4,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,65,9,50,50,15,22,12,25,0,0
+EC107,7,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,65,9,50,50,15,22,12,25,0,0
+EC107,12,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,65,9,50,50,15,22,12,25,0,0
+EC107,15,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,65,9,50,50,15,22,12,25,0,0
+EC107,27,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,65,9,50,50,15,22,12,25,0,0
+EC108,28,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,47,65,26,41,21,34,25,19,14,3
+EC109,1,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,32,0,0,0,0,0,0,0,0,0
+EC112,1,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,49,59,4,25,65,0,0,0,6,1
+EC112,4,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,49,59,4,25,65,0,0,0,6,1
+EC112,7,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,49,59,4,25,65,0,0,0,6,1
+EC112,15,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,49,59,4,25,65,0,0,0,6,1
+EC112,18,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,49,59,4,25,65,0,0,0,6,1
+EC113,1,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,72,59,33,42,25,32,19,4,0,0
+EC113,3,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,72,59,33,42,25,32,19,4,0,0
+EC113,4,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,72,59,33,42,25,32,19,4,0,0
+EC113,7,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,72,59,33,42,25,32,19,4,0,0
+EC113,8,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,72,59,33,42,25,32,19,4,0,0
+EC113,22,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,72,59,33,42,25,32,19,4,0,0
+EC116,9,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,40,48,5,47,61,4,0,0,24,6
+EC116,10,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,40,48,5,47,61,4,0,0,24,6
+EC116,11,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,40,48,5,47,61,4,0,0,24,6
+EC116,14,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,40,48,5,47,61,4,0,0,24,6
+EC116,15,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,40,48,5,47,61,4,0,0,24,6
+EC116,16,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,40,48,5,47,61,4,0,0,24,6
+EC116,18,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,40,48,5,47,61,4,0,0,24,6
+EC116,21,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,40,48,5,47,61,4,0,0,24,6
+EC118,5,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC118,21,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC118,58,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC118,62,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC118,82,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC118,85,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC122,4,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,60,54,56,36,14,8,8,21,14,8
+EC122,11,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,60,54,56,36,14,8,8,21,14,8
+EC122,15,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,60,54,56,36,14,8,8,21,14,8
+EC122,17,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,60,54,56,36,14,8,8,21,14,8
+EC122,24,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,60,54,56,36,14,8,8,21,14,8
+EC123,2,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,66,23,48,57,37,11,1,1,0,0
+EC123,3,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,66,23,48,57,37,11,1,1,0,0
+EC123,19,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,66,23,48,57,37,11,1,1,0,0
+EC123,23,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,66,23,48,57,37,11,1,1,0,0
+EC123,63,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,66,23,48,57,37,11,1,1,0,0
+EC124,1,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,18,14,0,0,0,0,0,0,0,0
+EC124,2,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,18,14,0,0,0,0,0,0,0,0
+EC124,3,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,18,14,0,0,0,0,0,0,0,0
+EC125,1,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,72,17,42,43,47,19,17,2,1,6
+EC125,6,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,72,17,42,43,47,19,17,2,1,6
+EC125,8,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,72,17,42,43,47,19,17,2,1,6
+EC125,11,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,72,17,42,43,47,19,17,2,1,6
+EC125,28,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,72,17,42,43,47,19,17,2,1,6
+EC125,1047,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,72,17,42,43,47,19,17,2,1,6
+EC125,1049,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,72,17,42,43,47,19,17,2,1,6
+EC128,11,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,41,107,38,42,12,17,0,0,5
+EC128,24,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,41,107,38,42,12,17,0,0,5
+EC128,25,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,41,107,38,42,12,17,0,0,5
+EC128,26,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,41,107,38,42,12,17,0,0,5
+EC128,27,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,41,107,38,42,12,17,0,0,5
+EC128,28,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,41,107,38,42,12,17,0,0,5
+EC128,29,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,41,107,38,42,12,17,0,0,5
+EC128,30,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,41,107,38,42,12,17,0,0,5
+EC129,1,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,44,41,32,14,20,12,33,19,0,1
+EC129,3,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,44,41,32,14,20,12,33,19,0,1
+EC129,4,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,44,41,32,14,20,12,33,19,0,1
+EC129,5,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,44,41,32,14,20,12,33,19,0,1
+EC129,11,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,44,41,32,14,20,12,33,19,0,1
+EC129,12,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,44,41,32,14,20,12,33,19,0,1
+EC129,33,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,44,41,32,14,20,12,33,19,0,1
+EC131,2,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,78,22,39,53,49,6,3,0,19,0
+EC131,3,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,78,22,39,53,49,6,3,0,19,0
+EC131,4,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,78,22,39,53,49,6,3,0,19,0
+EC131,5,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,78,22,39,53,49,6,3,0,19,0
+EC131,6,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,78,22,39,53,49,6,3,0,19,0
+EC131,7,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,78,22,39,53,49,6,3,0,19,0
+EC131,8,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,78,22,39,53,49,6,3,0,19,0
+EC136,12,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,37,50,39,18,15,42,0,22,3
+EC136,15,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,37,50,39,18,15,42,0,22,3
+EC136,19,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,37,50,39,18,15,42,0,22,3
+EC136,21,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,37,50,39,18,15,42,0,22,3
+EC137,4,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,12,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,13,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,15,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,16,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,52,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,53,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,143,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,145,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,153,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,155,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,157,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,163,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,164,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC139,1,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,68,13,74,38,34,27,4,0,20,7
+EC139,5,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,68,13,74,38,34,27,4,0,20,7
+EC139,9,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,68,13,74,38,34,27,4,0,20,7
+EC139,13,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,68,13,74,38,34,27,4,0,20,7
+EC139,28,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,68,13,74,38,34,27,4,0,20,7
+EC141,6,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,45,53,48,30,17,8,0,0,1
+EC141,7,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,45,53,48,30,17,8,0,0,1
+EC141,8,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,45,53,48,30,17,8,0,0,1
+EC141,25,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,45,53,48,30,17,8,0,0,1
+EC142,3,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,58,50,56,32,17,16,18,10,0,2
+EC142,6,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,58,50,56,32,17,16,18,10,0,2
+EC142,7,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,58,50,56,32,17,16,18,10,0,2
+EC142,8,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,58,50,56,32,17,16,18,10,0,2
+EC142,9,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,58,50,56,32,17,16,18,10,0,2
+EC142,11,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,58,50,56,32,17,16,18,10,0,2
+EC143,1,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,66,46,18,12,0,32,35,38,8,3
+EC143,2,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,66,46,18,12,0,32,35,38,8,3
+EC143,4,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,66,46,18,12,0,32,35,38,8,3
+EC143,6,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,66,46,18,12,0,32,35,38,8,3
+EC143,7,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,66,46,18,12,0,32,35,38,8,3
+EC152,22,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,62,45,37,35,30,23,6,24,0,2
+EC152,25,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,62,45,37,35,30,23,6,24,0,2
+EC155,1,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,54,58,45,40,38,6,0,0,21,3
+EC155,2,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,54,58,45,40,38,6,0,0,21,3
+EC156,1,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,18,55,52,12,26,22,4,18,4
+EC156,42,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,18,55,52,12,26,22,4,18,4
+EC156,43,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,18,55,52,12,26,22,4,18,4
+EC157,1,TIMIT,1,unknown,unknown,NP26,A414,nan,nan,na,na,na,na,na,na,left,79,62,30,48,23,28,9,2,9,2
+EC157,2,TIMIT,2,unknown,unknown,NP26,A414,nan,nan,na,na,na,na,na,na,left,79,62,30,48,23,28,9,2,9,2
+EC157,3,TIMIT,3,unknown,unknown,NP26,A414,nan,nan,na,na,na,na,na,na,left,79,62,30,48,23,28,9,2,9,2
+EC157,4,TIMIT,4,unknown,unknown,NP26,A414,nan,nan,na,na,na,na,na,na,left,79,62,30,48,23,28,9,2,9,2
+EC157,5,TIMIT,5,unknown,unknown,NP26,A414,nan,nan,na,na,na,na,na,na,left,79,62,30,48,23,28,9,2,9,2
+EC159,6,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,66,25,50,25,4,23,32,21,0,3
+EC159,18,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,66,25,50,25,4,23,32,21,0,3
+EC159,24,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,66,25,50,25,4,23,32,21,0,3
+EC166,2,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,43,38,28,10,39,1,27,0,5
+EC166,4,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,43,38,28,10,39,1,27,0,5
+EC166,5,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,43,38,28,10,39,1,27,0,5
+EC166,6,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,43,38,28,10,39,1,27,0,5
+EC166,7,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,43,38,28,10,39,1,27,0,5
+EC172,2,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,60,66,22,32,48,1,0,0,0,1
+EC172,4,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,60,66,22,32,48,1,0,0,0,1
+EC172,7,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,60,66,22,32,48,1,0,0,0,1
+EC172,9,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,60,66,22,32,48,1,0,0,0,1
+EC172,11,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,60,66,22,32,48,1,0,0,0,1
+EC173,1,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC173,2,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC173,3,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC173,29,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC173,30,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC173,31,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC175,2,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,28,37,60,18,29,4,1,21,5
+EC175,3,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,28,37,60,18,29,4,1,21,5
+EC175,6,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,28,37,60,18,29,4,1,21,5
+EC175,8,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,28,37,60,18,29,4,1,21,5
+EC175,9,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,28,37,60,18,29,4,1,21,5
+EC175,14,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,28,37,60,18,29,4,1,21,5
+EC175,16,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,28,37,60,18,29,4,1,21,5
+EC177,3,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,24,6,48,36,0,6,17,6,0,9
+EC177,4,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,24,6,48,36,0,6,17,6,0,9
+EC177,5,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,24,6,48,36,0,6,17,6,0,9
+EC177,8,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,24,6,48,36,0,6,17,6,0,9
+EC177,9,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,24,6,48,36,0,6,17,6,0,9
+EC179,20,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,15,57,57,25,8,7,49,25,0,3
+EC179,21,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,15,57,57,25,8,7,49,25,0,3
+EC179,22,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,15,57,57,25,8,7,49,25,0,3
+EC180,1,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,bilateralOrUnknown,0,0,0,0,0,0,0,0,25,65
+EC180,2,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,bilateralOrUnknown,0,0,0,0,0,0,0,0,25,65
+EC180,4,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,bilateralOrUnknown,0,0,0,0,0,0,0,0,25,65
+EC180,5,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,bilateralOrUnknown,0,0,0,0,0,0,0,0,25,65
+EC180,6,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,bilateralOrUnknown,0,0,0,0,0,0,0,0,25,65
+EC181,4,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,0,0,0,0,0,0,17,33
+EC181,5,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,0,0,0,0,0,0,17,33
+EC181,6,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,0,0,0,0,0,0,17,33
+EC181,10,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,0,0,0,0,0,0,17,33
+EC181,11,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,0,0,0,0,0,0,17,33
+EC182,5,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,54,11,40,48,23,18,42,12,17,2
+EC182,7,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,54,11,40,48,23,18,42,12,17,2
+EC182,11,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,54,11,40,48,23,18,42,12,17,2
+EC182,15,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,54,11,40,48,23,18,42,12,17,2
+EC182,19,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,54,11,40,48,23,18,42,12,17,2
+EC183,43,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,45,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,49,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,67,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,78,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,79,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,107,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC186,2,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC186,4,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC186,15,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC186,16,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC186,22,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC187,1,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,37,28,0,0,52,0,0,0,10,3
+EC187,2,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,37,28,0,0,52,0,0,0,10,3
+EC187,3,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,37,28,0,0,52,0,0,0,10,3
+EC187,4,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,37,28,0,0,52,0,0,0,10,3
+EC187,5,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,37,28,0,0,52,0,0,0,10,3
+EC188,2,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,34,38,49,51,50,2,19,0,0,1
+EC188,3,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,34,38,49,51,50,2,19,0,0,1
+EC188,6,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,34,38,49,51,50,2,19,0,0,1
+EC188,8,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,34,38,49,51,50,2,19,0,0,1
+EC188,11,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,34,38,49,51,50,2,19,0,0,1
+EC188,12,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,34,38,49,51,50,2,19,0,0,1
+EC188,13,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,34,38,49,51,50,2,19,0,0,1
+EC193,5,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,35,86,30,27,36,18,0,22,20,3
+EC193,6,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,35,86,30,27,36,18,0,22,20,3
+EC193,11,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,35,86,30,27,36,18,0,22,20,3
+EC193,12,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,35,86,30,27,36,18,0,22,20,3
+EC193,13,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,35,86,30,27,36,18,0,22,20,3
+EC194,5,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,8,0,26,3,0,52,77,40,0,0
+EC194,16,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,8,0,26,3,0,52,77,40,0,0
+EC194,17,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,8,0,26,3,0,52,77,40,0,0
+EC194,19,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,8,0,26,3,0,52,77,40,0,0
+EC194,24,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,8,0,26,3,0,52,77,40,0,0
+EC195,1,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,46,87,0,27,53,0,0,0,8,0
+EC195,5,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,46,87,0,27,53,0,0,0,8,0
+EC195,11,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,46,87,0,27,53,0,0,0,8,0
+EC195,15,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,46,87,0,27,53,0,0,0,8,0
+EC195,17,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,46,87,0,27,53,0,0,0,8,0
+EC195,32,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,46,87,0,27,53,0,0,0,8,0
+EC196,1,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,34,84,27,15,55,17,0,0,10,3
+EC196,2,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,34,84,27,15,55,17,0,0,10,3
+EC196,5,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,34,84,27,15,55,17,0,0,10,3
+EC196,9,TIMIT,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,34,84,27,15,55,17,0,0,10,3
+EC196,25,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,34,84,27,15,55,17,0,0,10,3
+EC197,2,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,7,0,55,56,9,20,66,18,3,7
+EC197,3,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,7,0,55,56,9,20,66,18,3,7
+EC199,2,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,32,41,33,9,20,31,22,0,3
+EC199,3,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,32,41,33,9,20,31,22,0,3
+EC199,5,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,32,41,33,9,20,31,22,0,3
+EC199,6,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,32,41,33,9,20,31,22,0,3
+EC202,15,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,0,0,31,54,50,1,99,2,0,2
+EC202,19,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,0,0,31,54,50,1,99,2,0,2
+EC202,20,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,0,0,31,54,50,1,99,2,0,2
+EC202,21,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,0,0,31,54,50,1,99,2,0,2
+EC202,35,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,0,0,31,54,50,1,99,2,0,2
+EC203,9,TIMIT,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,35,0,55,60,57,20,30,16,0,0
+EC203,10,TIMIT,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,35,0,55,60,57,20,30,16,0,0
+EC203,14,TIMIT,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,35,0,55,60,57,20,30,16,0,0
+EC203,15,TIMIT,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,35,0,55,60,57,20,30,16,0,0
+EC203,16,TIMIT,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,35,0,55,60,57,20,30,16,0,0
+EC204,1,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,No,English,5,Hindi,1,,,right,39,15,59,34,67,7,2,11,0,9
+EC204,2,TIMIT,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,No,English,5,Hindi,1,,,right,39,15,59,34,67,7,2,11,0,9
+EC204,6,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,No,English,5,Hindi,1,,,right,39,15,59,34,67,7,2,11,0,9
+EC204,7,TIMIT,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,No,English,5,Hindi,1,,,right,39,15,59,34,67,7,2,11,0,9
+EC204,13,TIMIT,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,No,English,5,Hindi,1,,,right,39,15,59,34,67,7,2,11,0,9
+EC204,25,TIMIT,3,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,No,English,5,Hindi,1,,,right,39,15,59,34,67,7,2,11,0,9
+EC208,4,TIMIT,1,Good,unknown,na,na,Right,No,English,5,,,Clarinet,12 years played 3 years daily,left,68,23,29,31,27,35,20,16,18,3
+EC208,7,TIMIT,2,Good,unknown,na,na,Right,No,English,5,,,Clarinet,12 years played 3 years daily,left,68,23,29,31,27,35,20,16,18,3
+EC208,8,TIMIT,2,Good,unknown,na,na,Right,No,English,5,,,Clarinet,12 years played 3 years daily,left,68,23,29,31,27,35,20,16,18,3
+EC208,10,TIMIT,5,Good,unknown,na,na,Right,No,English,5,,,Clarinet,12 years played 3 years daily,left,68,23,29,31,27,35,20,16,18,3
+EC208,20,TIMIT,NaN,Good,unknown,na,na,Right,No,English,5,,,Clarinet,12 years played 3 years daily,left,68,23,29,31,27,35,20,16,18,3
+EC208,21,TIMIT,NaN,Good,unknown,na,na,Right,No,English,5,,,Clarinet,12 years played 3 years daily,left,68,23,29,31,27,35,20,16,18,3
+EC208,22,TIMIT,NaN,Good,unknown,na,na,Right,No,English,5,,,Clarinet,12 years played 3 years daily,left,68,23,29,31,27,35,20,16,18,3
+EC208,27,TIMIT,NaN,Good,unknown,na,na,Right,No,English,5,,,Clarinet,12 years played 3 years daily,left,68,23,29,31,27,35,20,16,18,3
+EC208,28,TIMIT,NaN,Good,unknown,na,na,Right,No,English,5,,,Clarinet,12 years played 3 years daily,left,68,23,29,31,27,35,20,16,18,3
+EC208,31,TIMIT,NaN,Good,unknown,na,na,Right,No,English,5,,,Clarinet,12 years played 3 years daily,left,68,23,29,31,27,35,20,16,18,3
+EC210,4,TIMIT,NaN,Good,unknown,na,na,Right,No,Spanish,5,English,4,,,right,2,0,58,53,62,1,0,0,0,2
+EC212,3,TIMIT,1,Good,unknown,na,na,Right,No,English,5,Samoan,2,French Horn,,left,70,75,44,35,70,26,17,2,21,2
+EC212,5,TIMIT,2,Good,unknown,na,na,Right,No,English,5,Samoan,2,French Horn,,left,70,75,44,35,70,26,17,2,21,2
+EC212,13,TIMIT,1,Good,unknown,na,na,Right,No,English,5,Samoan,2,French Horn,,left,70,75,44,35,70,26,17,2,21,2
+EC212,23,TIMIT,5,Good,unknown,na,na,Right,No,English,5,Samoan,2,French Horn,,left,70,75,44,35,70,26,17,2,21,2
+EC212,26,TIMIT,2,Good,unknown,na,na,Right,No,English,5,Samoan,2,French Horn,,left,70,75,44,35,70,26,17,2,21,2
+EC214,1,TIMIT,1,Good,unknown,na,na,Left,,Spanish,5,,,,,left,62,14,33,29,36,23,44,25,16,1
+EC214,3,TIMIT,2,Good,unknown,na,na,Left,,Spanish,5,,,,,left,62,14,33,29,36,23,44,25,16,1
+EC214,5,TIMIT,5,Good,unknown,na,na,Left,,Spanish,5,,,,,left,62,14,33,29,36,23,44,25,16,1
+EC214,9,TIMIT,3,Good,unknown,na,na,Left,,Spanish,5,,,,,left,62,14,33,29,36,23,44,25,16,1
+EC214,11,TIMIT,4,Good,unknown,na,na,Left,,Spanish,5,,,,,left,62,14,33,29,36,23,44,25,16,1
+EC219,1,TIMIT,1,Good,"ANIN 1: Mic, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,nan,nan,na,na,na,na,na,na,left,72,66,62,64,49,9,10,1,12,9
+EC219,2,TIMIT,2,Good,"ANIN 1: Mic, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,nan,nan,na,na,na,na,na,na,left,72,66,62,64,49,9,10,1,12,9
+EC219,3,TIMIT,5,Good,"ANIN 1: Mic, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,nan,nan,na,na,na,na,na,na,left,72,66,62,64,49,9,10,1,12,9
+EC219,8,TIMIT,3,Good,"ANIN 1: Mic, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,nan,nan,na,na,na,na,na,na,left,72,66,62,64,49,9,10,1,12,9
+EC219,9,TIMIT,4,Good,"ANIN 1: Mic, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,nan,nan,na,na,na,na,na,na,left,72,66,62,64,49,9,10,1,12,9
+EC220,12,TIMIT,1,Good,,na,na,nan,nan,na,na,na,na,na,na,bilateralOrUnknown,0,0,0,0,0,0,0,0,7,20
+EC220,13,TIMIT,2,Good,,na,na,nan,nan,na,na,na,na,na,na,bilateralOrUnknown,0,0,0,0,0,0,0,0,7,20
+EC220,14,TIMIT,5,Good,,na,na,nan,nan,na,na,na,na,na,na,bilateralOrUnknown,0,0,0,0,0,0,0,0,7,20
+EC220,17,TIMIT,3,Bad,,na,na,nan,nan,na,na,na,na,na,na,bilateralOrUnknown,0,0,0,0,0,0,0,0,7,20
+EC220,18,TIMIT,3,Good,,na,na,nan,nan,na,na,na,na,na,na,bilateralOrUnknown,0,0,0,0,0,0,0,0,7,20
+EC220,19,TIMIT,4,Good,,na,na,nan,nan,na,na,na,na,na,na,bilateralOrUnknown,0,0,0,0,0,0,0,0,7,20
+EC222,1,TIMIT,1,Good,,na,na,nan,nan,na,na,na,na,na,na,left,68,84,2,2,28,4,0,0,17,5
+EC222,3,TIMIT,1,Good,,na,na,nan,nan,na,na,na,na,na,na,left,68,84,2,2,28,4,0,0,17,5
+EC222,5,TIMIT,2,Good,,na,na,nan,nan,na,na,na,na,na,na,left,68,84,2,2,28,4,0,0,17,5
+EC222,7,TIMIT,2,Good,,na,na,nan,nan,na,na,na,na,na,na,left,68,84,2,2,28,4,0,0,17,5
+EC222,12,TIMIT,3,Good,,na,na,nan,nan,na,na,na,na,na,na,left,68,84,2,2,28,4,0,0,17,5
+EC224,4,TIMIT,NaN,Good,,na,na,Right,No,English,5,Spanish,5,Fluet,middle school,left,11,68,0,0,2,0,0,0,0,3
+EC225,1,TIMIT,1,Good,"ANIN 3: Speaker 1, ANIN 4: Speaker 2",na,na,Right,,Spanish,5,,,no,,left,47,46,6,9,14,0,0,0,21,3
+EC225,9,TIMIT,2,Good,,na,na,Right,,Spanish,5,,,no,,left,47,46,6,9,14,0,0,0,21,3
+EC225,15,TIMIT,5,Good,,na,na,Right,,Spanish,5,,,no,,left,47,46,6,9,14,0,0,0,21,3
+EC225,25,TIMIT,3,Good,,na,na,Right,,Spanish,5,,,no,,left,47,46,6,9,14,0,0,0,21,3
+EC225,33,TIMIT,4,Good,,na,na,Right,,Spanish,5,,,no,,left,47,46,6,9,14,0,0,0,21,3
+EC225,45,TIMIT,1,Good,,na,na,Right,,Spanish,5,,,no,,left,47,46,6,9,14,0,0,0,21,3
+EC225,47,TIMIT,2,Good,,na,na,Right,,Spanish,5,,,no,,left,47,46,6,9,14,0,0,0,21,3
+EC225,48,TIMIT,5,Good,,na,na,Right,,Spanish,5,,,no,,left,47,46,6,9,14,0,0,0,21,3
+EC225,67,TIMIT,3,Good,,na,na,Right,,Spanish,5,,,no,,left,47,46,6,9,14,0,0,0,21,3
+EC225,72,TIMIT,5,Good,,na,na,Right,,Spanish,5,,,no,,left,47,46,6,9,14,0,0,0,21,3
+EC225,73,TIMIT,4,Good,,na,na,Right,,Spanish,5,,,no,,left,47,46,6,9,14,0,0,0,21,3
+EC228,2,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,na,na,English,,,,Singing,Growing up (childhood/school),left,55,57,28,45,63,0,0,0,7,2
+EC228,5,TIMIT,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,na,na,English,,,,Singing,Growing up (childhood/school),left,55,57,28,45,63,0,0,0,7,2
+EC228,7,TIMIT,3,Bad,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,na,na,English,,,,Singing,Growing up (childhood/school),left,55,57,28,45,63,0,0,0,7,2
+EC228,8,TIMIT,3,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,na,na,English,,,,Singing,Growing up (childhood/school),left,55,57,28,45,63,0,0,0,7,2
+EC228,12,TIMIT,4,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,na,na,English,,,,Singing,Growing up (childhood/school),left,55,57,28,45,63,0,0,0,7,2
+EC228,15,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,na,na,English,,,,Singing,Growing up (childhood/school),left,55,57,28,45,63,0,0,0,7,2
+EC230,2,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,No,English,5,,,None,,bilateralOrUnknown,0,0,0,0,0,0,0,0,10,32
+EC230,3,TIMIT,2,Good,"ANIN 1: Microphone, ANIN 1: Speaker 1, ANIN 2: Speaker 2",na,na,Right,No,English,5,,,None,,bilateralOrUnknown,0,0,0,0,0,0,0,0,10,32
+EC230,4,TIMIT,5,Good,"ANIN 1: Microphone, ANIN 1: Speaker 1, ANIN 2: Speaker 2",na,na,Right,No,English,5,,,None,,bilateralOrUnknown,0,0,0,0,0,0,0,0,10,32
+EC230,5,TIMIT,3,Good,,na,na,Right,No,English,5,,,None,,bilateralOrUnknown,0,0,0,0,0,0,0,0,10,32
+EC230,6,TIMIT,4,Bad,,na,na,Right,No,English,5,,,None,,bilateralOrUnknown,0,0,0,0,0,0,0,0,10,32
+EC230,7,TIMIT,4,Good,,na,na,Right,No,English,5,,,None,,bilateralOrUnknown,0,0,0,0,0,0,0,0,10,32
+EC235,2,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,No,English,5,Spanish,3,Guitar,1 year,right,43,73,21,19,42,1,1,1,0,2
+EC235,4,TIMIT,2,Bad,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,No,English,5,Spanish,3,Guitar,1 year,right,43,73,21,19,42,1,1,1,0,2
+EC235,5,TIMIT,2,Bad,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,No,English,5,Spanish,3,Guitar,1 year,right,43,73,21,19,42,1,1,1,0,2
+EC235,6,TIMIT,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,No,English,5,Spanish,3,Guitar,1 year,right,43,73,21,19,42,1,1,1,0,2
+EC235,11,TIMIT,3,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,No,English,5,Spanish,3,Guitar,1 year,right,43,73,21,19,42,1,1,1,0,2
+EC235,14,TIMIT,4,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,No,English,5,Spanish,3,Guitar,1 year,right,43,73,21,19,42,1,1,1,0,2
+EC235,17,TIMIT,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,No,English,5,Spanish,3,Guitar,1 year,right,43,73,21,19,42,1,1,1,0,2
+EC236,1,TIMIT,1,Good,unknown,na,na,Right,,,,,,,,left,34,11,57,44,74,11,0,0,0,0
+EC236,4,TIMIT,2,Good,unknown,na,na,Right,,,,,,,,left,34,11,57,44,74,11,0,0,0,0
+EC237,1,TIMIT,1,Good,,NP04,NA,Right,After blackout,Russian,5,English,4,No,,left,43,68,31,37,48,21,6,2,9,2
+EC237,11,TIMIT,2,Good,,NP04,NA,Right,After blackout,Russian,5,English,4,No,,left,43,68,31,37,48,21,6,2,9,2
+EC237,20,TIMIT,1,Good,,NP04,NA,Right,After blackout,Russian,5,English,4,No,,left,43,68,31,37,48,21,6,2,9,2
+EC237,21,TIMIT,2,Bad,,NP04,NA,Right,After blackout,Russian,5,English,4,No,,left,43,68,31,37,48,21,6,2,9,2
+EC237,27,TIMIT,5,Good,,NP04,NA,Right,After blackout,Russian,5,English,4,No,,left,43,68,31,37,48,21,6,2,9,2
+EC242,1,TIMIT,1,Bad,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,na,na,English,,,,,,right,51,32,16,18,5,0,4,11,0,1
+EC242,2,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,na,na,English,,,,,,right,51,32,16,18,5,0,4,11,0,1
+EC242,3,TIMIT,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,na,na,English,,,,,,right,51,32,16,18,5,0,4,11,0,1
+EC242,4,TIMIT,3,Good,"ANIN 1: Microphone, ANIN 1: Speaker 1, ANIN 2: Speaker 2",na,na,na,na,English,,,,,,right,51,32,16,18,5,0,4,11,0,1
+EC242,6,TIMIT,4,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,na,na,English,,,,,,right,51,32,16,18,5,0,4,11,0,1
+EC242,8,TIMIT,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,na,na,English,,,,,,right,51,32,16,18,5,0,4,11,0,1
+EC242,11,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,na,na,English,,,,,,right,51,32,16,18,5,0,4,11,0,1
+EC243,1,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP08,NA,na,na,English,5,Spanish,1,drum,NaN,left,50,28,42,60,34,1,7,2,10,0
+EC243,2,TIMIT,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP08,NA,na,na,English,5,Spanish,1,drum,NaN,left,50,28,42,60,34,1,7,2,10,0
+EC243,3,TIMIT,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP08,NA,na,na,English,5,Spanish,1,drum,NaN,left,50,28,42,60,34,1,7,2,10,0
+EC243,4,TIMIT,3,Bad,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP08,NA,na,na,English,5,Spanish,1,drum,NaN,left,50,28,42,60,34,1,7,2,10,0
+EC243,5,TIMIT,1,Good,,NP08,NA,na,na,English,5,Spanish,1,drum,NaN,left,50,28,42,60,34,1,7,2,10,0
+EC243,6,TIMIT,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP08,NA,na,na,English,5,Spanish,1,drum,NaN,left,50,28,42,60,34,1,7,2,10,0
+EC243,10,TIMIT,3,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP08,NA,na,na,English,5,Spanish,1,drum,NaN,left,50,28,42,60,34,1,7,2,10,0
+EC243,11,TIMIT,4,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP08,NA,na,na,English,5,Spanish,1,drum,NaN,left,50,28,42,60,34,1,7,2,10,0
+EC248,1,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP13,NA,Right,no,English,,Panjabi,,,,left,80,94,12,10,33,1,0,7,6,1
+EC248,2,TIMIT,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP13,NA,Right,no,English,,Panjabi,,,,left,80,94,12,10,33,1,0,7,6,1
+EC248,3,TIMIT,3,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP13,NA,Right,no,English,,Panjabi,,,,left,80,94,12,10,33,1,0,7,6,1
+EC248,20,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP13,NA,Right,no,English,,Panjabi,,,,left,80,94,12,10,33,1,0,7,6,1
+EC249,1,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,"Minor stuttering sometimes, not affecting language/speech","Taishanese (a dialect in Guangdong, China)",5,English,5,violin 5-7 yrs,"elementary school, 3rd grade, string orchestra, high/middle school, not now, broken",left,38,58,0,10,10,0,0,0,0,0
+EC249,2,TIMIT,3,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,"Minor stuttering sometimes, not affecting language/speech","Taishanese (a dialect in Guangdong, China)",5,English,5,violin 5-7 yrs,"elementary school, 3rd grade, string orchestra, high/middle school, not now, broken",left,38,58,0,10,10,0,0,0,0,0
+EC249,3,TIMIT,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,"Minor stuttering sometimes, not affecting language/speech","Taishanese (a dialect in Guangdong, China)",5,English,5,violin 5-7 yrs,"elementary school, 3rd grade, string orchestra, high/middle school, not now, broken",left,38,58,0,10,10,0,0,0,0,0
+EC249,9,TIMIT,1,Bad,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,"Minor stuttering sometimes, not affecting language/speech","Taishanese (a dialect in Guangdong, China)",5,English,5,violin 5-7 yrs,"elementary school, 3rd grade, string orchestra, high/middle school, not now, broken",left,38,58,0,10,10,0,0,0,0,0
+EC249,10,TIMIT,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,"Minor stuttering sometimes, not affecting language/speech","Taishanese (a dialect in Guangdong, China)",5,English,5,violin 5-7 yrs,"elementary school, 3rd grade, string orchestra, high/middle school, not now, broken",left,38,58,0,10,10,0,0,0,0,0
+EC249,12,TIMIT,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,"Minor stuttering sometimes, not affecting language/speech","Taishanese (a dialect in Guangdong, China)",5,English,5,violin 5-7 yrs,"elementary school, 3rd grade, string orchestra, high/middle school, not now, broken",left,38,58,0,10,10,0,0,0,0,0
+EC250,1,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP18,NA,Right,no,English,,,,trumpet,fifth grade; for a year,left,61,39,61,48,4,16,14,0,11,2
+EC250,2,TIMIT,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP18,NA,Right,no,English,,,,trumpet,fifth grade; for a year,left,61,39,61,48,4,16,14,0,11,2
+EC250,7,TIMIT,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP18,NA,Right,no,English,,,,trumpet,fifth grade; for a year,left,61,39,61,48,4,16,14,0,11,2
+EC250,10,TIMIT,3,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP18,NA,Right,no,English,,,,trumpet,fifth grade; for a year,left,61,39,61,48,4,16,14,0,11,2
+EC250,11,TIMIT,4,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP18,NA,Right,no,English,,,,trumpet,fifth grade; for a year,left,61,39,61,48,4,16,14,0,11,2
+EC252,1,TIMIT,1,Bad,unknown,NP21,NA,Right,None,Spanish,5,,,Guitar,2 weeks,right,49,57,45,37,42,3,5,0,0,4
+EC252,2,TIMIT,1,Good,unknown,NP21,NA,Right,None,Spanish,5,,,Guitar,2 weeks,right,49,57,45,37,42,3,5,0,0,4
+EC252,3,TIMIT,2,Good,unknown,NP21,NA,Right,None,Spanish,5,,,Guitar,2 weeks,right,49,57,45,37,42,3,5,0,0,4
+EC252,9,TIMIT,5,Good,unknown,NP21,NA,Right,None,Spanish,5,,,Guitar,2 weeks,right,49,57,45,37,42,3,5,0,0,4
+EC252,16,TIMIT,1,Good,unknown,NP21,NA,Right,None,Spanish,5,,,Guitar,2 weeks,right,49,57,45,37,42,3,5,0,0,4
+EC252,17,TIMIT,3,Good,unknown,NP21,NA,Right,None,Spanish,5,,,Guitar,2 weeks,right,49,57,45,37,42,3,5,0,0,4
+EC253,2,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 2: Speaker 2",NP23,NA,na,na,English,5,,NaN,Piano,1,left,57,27,45,48,33,26,6,4,15,3
+EC253,3,TIMIT,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 2: Speaker 2",NP23,NA,na,na,English,5,,NaN,Piano,1,left,57,27,45,48,33,26,6,4,15,3
+EC253,4,TIMIT,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 2: Speaker 2",NP23,NA,na,na,English,5,,NaN,Piano,1,left,57,27,45,48,33,26,6,4,15,3
+EC253,11,TIMIT,3,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 2: Speaker 2",NP23,NA,na,na,English,5,,NaN,Piano,1,left,57,27,45,48,33,26,6,4,15,3
+EC253,12,TIMIT,4,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 2: Speaker 2",NP23,NA,na,na,English,5,,NaN,Piano,1,left,57,27,45,48,33,26,6,4,15,3
+EC254,1,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP22,NA,Right,None,,,,,clarinet,1yr,left,52,68,27,25,19,29,9,12,17,7
+EC254,5,TIMIT,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP22,NA,Right,None,,,,,clarinet,1yr,left,52,68,27,25,19,29,9,12,17,7
+EC254,6,TIMIT,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP22,NA,Right,None,,,,,clarinet,1yr,left,52,68,27,25,19,29,9,12,17,7
+EC256,1,TIMIT,5,Good,,NP24,NA,Right,No,English,,,,No,,left,52,73,29,27,43,0,0,0,16,8
+EC256,9,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP24,NA,Right,No,English,,,,No,,left,52,73,29,27,43,0,0,0,16,8
+EC256,10,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP24,NA,Right,No,English,,,,No,,left,52,73,29,27,43,0,0,0,16,8
+EC256,11,TIMIT,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP24,NA,Right,No,English,,,,No,,left,52,73,29,27,43,0,0,0,16,8
+EC256,12,TIMIT,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP24,NA,Right,No,English,,,,No,,left,52,73,29,27,43,0,0,0,16,8
+EC258,1,TIMIT,1,Bad,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,,Dari,5,,,,,left,31,76,30,37,59,0,1,0,18,18
+EC258,2,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,Right,,Dari,5,,,,,left,31,76,30,37,59,0,1,0,18,18
+EC258,3,TIMIT,3,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,Right,,Dari,5,,,,,left,31,76,30,37,59,0,1,0,18,18
+EC258,5,TIMIT,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,Right,,Dari,5,,,,,left,31,76,30,37,59,0,1,0,18,18
+EC258,8,TIMIT,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,Right,,Dari,5,,,,,left,31,76,30,37,59,0,1,0,18,18
+EC258,9,TIMIT,4,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,Right,,Dari,5,,,,,left,31,76,30,37,59,0,1,0,18,18
+EC258,10,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,Right,,Dari,5,,,,,left,31,76,30,37,59,0,1,0,18,18
+EC260,1,TIMIT,1,Good,,na,na,Right,No,Spanish,5,English,4,,,left,32,75,42,27,3,33,11,11,15,7
+EC260,2,TIMIT,2,Good,,na,na,Right,No,Spanish,5,English,4,,,left,32,75,42,27,3,33,11,11,15,7
+EC260,5,TIMIT,5,Good,,na,na,Right,No,Spanish,5,English,4,,,left,32,75,42,27,3,33,11,11,15,7
+EC260,23,TIMIT,3,Good,,na,na,Right,No,Spanish,5,English,4,,,left,32,75,42,27,3,33,11,11,15,7
+EC260,25,TIMIT,4,Good,,na,na,Right,No,Spanish,5,English,4,,,left,32,75,42,27,3,33,11,11,15,7
+EC263,5,TIMIT,5,Good,,NP33,NA,Right,,,,,,,,left,66,33,45,31,39,15,0,13,13,4
+EC265,1,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,,,,,,,,,left,60,31,55,37,4,27,26,7,15,4
+EC265,2,TIMIT,2,Good,,na,na,,,,,,,,,left,60,31,55,37,4,27,26,7,15,4
+EC265,3,TIMIT,5,Good,,na,na,,,,,,,,,left,60,31,55,37,4,27,26,7,15,4
+EC265,6,TIMIT,3,Good,,na,na,,,,,,,,,left,60,31,55,37,4,27,26,7,15,4
+EC265,8,TIMIT,4,Good,,na,na,,,,,,,,,left,60,31,55,37,4,27,26,7,15,4
+EC266,1,TIMIT,1,BAD,,NP34,NA,Right,No,Spanish,5,Valenciano,5,No,NaN,right,50,58,40,43,41,1,1,0,0,2
+EC266,2,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP34,NA,Right,No,Spanish,5,Valenciano,5,No,NaN,right,50,58,40,43,41,1,1,0,0,2
+EC266,3,TIMIT,2,Good,,NP34,NA,Right,No,Spanish,5,Valenciano,5,No,NaN,right,50,58,40,43,41,1,1,0,0,2
+EC266,7,TIMIT,5,Good,,NP34,NA,Right,No,Spanish,5,Valenciano,5,No,NaN,right,50,58,40,43,41,1,1,0,0,2
+EC266,16,TIMIT,3,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP34,NA,Right,No,Spanish,5,Valenciano,5,No,NaN,right,50,58,40,43,41,1,1,0,0,2
+EC266,17,TIMIT,4,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP34,NA,Right,No,Spanish,5,Valenciano,5,No,NaN,right,50,58,40,43,41,1,1,0,0,2
+EC267,9,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,Right,None,English,5,Spanish,5,Trumpet,"3 years, 3rd to 5th grade",left,5,2,41,59,28,33,28,23,19,2
+EC267,10,TIMIT,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,Right,None,English,5,Spanish,5,Trumpet,"3 years, 3rd to 5th grade",left,5,2,41,59,28,33,28,23,19,2
+EC267,11,TIMIT,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,Right,None,English,5,Spanish,5,Trumpet,"3 years, 3rd to 5th grade",left,5,2,41,59,28,33,28,23,19,2
+EC270,1,TIMIT,1,Good,,na,na,Right,None,English,5,,,Drums,20 years,left,61,46,4,3,17,0,0,0,15,7
+EC270,5,TIMIT,2,Good,,na,na,Right,None,English,5,,,Drums,20 years,left,61,46,4,3,17,0,0,0,15,7
+EC270,12,TIMIT,5,Good,,na,na,Right,None,English,5,,,Drums,20 years,left,61,46,4,3,17,0,0,0,15,7
+EC270,18,TIMIT,3,Good,,na,na,Right,None,English,5,,,Drums,20 years,left,61,46,4,3,17,0,0,0,15,7
+EC270,20,TIMIT,4,Good,,na,na,Right,None,English,5,,,Drums,20 years,left,61,46,4,3,17,0,0,0,15,7
+EC273,1,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,No,English,,Spanish,3,,,left,52,62,30,34,5,21,21,10,20,3
+EC273,6,TIMIT,2,Good,"ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,No,English,,Spanish,3,,,left,52,62,30,34,5,21,21,10,20,3
+EC273,7,TIMIT,3,Good,"ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,No,English,,Spanish,3,,,left,52,62,30,34,5,21,21,10,20,3
+EC275,1,TIMIT,1,Good,unknown,na,na,Ambidextrous,no,English,5,,,saxophone,10 years,right,52,58,46,30,32,6,10,3,0,3
+EC275,4,TIMIT,2,Good,unknown,na,na,Ambidextrous,no,English,5,,,saxophone,10 years,right,52,58,46,30,32,6,10,3,0,3
+EC275,11,TIMIT,1,Good,unknown,na,na,Ambidextrous,no,English,5,,,saxophone,10 years,right,52,58,46,30,32,6,10,3,0,3
+EC275,12,TIMIT,5,Good,unknown,na,na,Ambidextrous,no,English,5,,,saxophone,10 years,right,52,58,46,30,32,6,10,3,0,3
+EC275,30,TIMIT,NaN,Good,unknown,na,na,Ambidextrous,no,English,5,,,saxophone,10 years,right,52,58,46,30,32,6,10,3,0,3
+EC275,32,TIMIT,3,Bad,unknown,na,na,Ambidextrous,no,English,5,,,saxophone,10 years,right,52,58,46,30,32,6,10,3,0,3
+EC275,33,TIMIT,NaN,Bad,unknown,na,na,Ambidextrous,no,English,5,,,saxophone,10 years,right,52,58,46,30,32,6,10,3,0,3
+EC275,34,TIMIT,4,Good,unknown,na,na,Ambidextrous,no,English,5,,,saxophone,10 years,right,52,58,46,30,32,6,10,3,0,3
+EC278,27,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,na,na,english,5,spanish,2,DJ,NaN,left,58,32,4,5,31,1,0,0,6,1
+EC278,28,TIMIT,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,na,na,english,5,spanish,2,DJ,NaN,left,58,32,4,5,31,1,0,0,6,1
+EC278,29,TIMIT,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,na,na,english,5,spanish,2,DJ,NaN,left,58,32,4,5,31,1,0,0,6,1
+EC278,32,TIMIT,3,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,na,na,english,5,spanish,2,DJ,NaN,left,58,32,4,5,31,1,0,0,6,1
+EC278,33,TIMIT,4,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,na,na,english,5,spanish,2,DJ,NaN,left,58,32,4,5,31,1,0,0,6,1
+EC282,18,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP48,A436,Right,No,English,5,Spanish,3,Clarinet,4,left,48,67,6,16,13,0,0,0,17,2
+EC282,25,TIMIT,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP48,A436,Right,No,English,5,Spanish,3,Clarinet,4,left,48,67,6,16,13,0,0,0,17,2
+EC282,27,TIMIT,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP48,A436,Right,No,English,5,Spanish,3,Clarinet,4,left,48,67,6,16,13,0,0,0,17,2
+EC282,34,TIMIT,3,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP48,A436,Right,No,English,5,Spanish,3,Clarinet,4,left,48,67,6,16,13,0,0,0,17,2
+EC282,35,TIMIT,4,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP48,A436,Right,No,English,5,Spanish,3,Clarinet,4,left,48,67,6,16,13,0,0,0,17,2
+EC287,5,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP53,A441,Left,No,English,5,,,No,,left,59,57,3,3,7,0,0,0,16,7
+EC287,6,TIMIT,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP53,A441,Left,No,English,5,,,No,,left,59,57,3,3,7,0,0,0,16,7
+EC287,14,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP53,A441,Left,No,English,5,,,No,,left,59,57,3,3,7,0,0,0,16,7
+EC290,1,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,no,English,5,,,,,left,28,50,35,43,63,0,5,0,9,1
+EC290,2,TIMIT,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,no,English,5,,,,,left,28,50,35,43,63,0,5,0,9,1
+EC290,8,TIMIT,3,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,no,English,5,,,,,left,28,50,35,43,63,0,5,0,9,1
+EC290,9,TIMIT,4,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,no,English,5,,,,,left,28,50,35,43,63,0,5,0,9,1
+EC290,10,TIMIT,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,no,English,5,,,,,left,28,50,35,43,63,0,5,0,9,1
+EC294,1,TIMIT,1,Good,"ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP62,A449,Left,No,English,,,,Singing,Childhood,left,69,73,18,15,37,5,0,0,23,2
+EC294,2,TIMIT,2,Good,"ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP62,A449,Left,No,English,,,,Singing,Childhood,left,69,73,18,15,37,5,0,0,23,2
+EC294,3,TIMIT,5,Good,"ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP62,A449,Left,No,English,,,,Singing,Childhood,left,69,73,18,15,37,5,0,0,23,2
+EC295,9,TIMIT,1,Bad,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,na,na,English,,,,,,right,0,0,61,39,13,0,0,0,0,2
+EC295,10,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,na,na,English,,,,,,right,0,0,61,39,13,0,0,0,0,2
+EC295,11,TIMIT,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,na,na,English,,,,,,right,0,0,61,39,13,0,0,0,0,2
+EC296,1,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP63,A450,Right,,Spanish,5,English,5,,,left,4,3,8,15,8,0,0,0,24,14
+EC296,14,TIMIT,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP63,A450,Right,,Spanish,5,English,5,,,left,4,3,8,15,8,0,0,0,24,14
+EC296,15,TIMIT,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP63,A450,Right,,Spanish,5,English,5,,,left,4,3,8,15,8,0,0,0,24,14
+EC299,2,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1",NP66,A453,Right,,Spanish,5,English,1,,,left,42,53,14,13,20,0,4,1,2,2
+EC299,5,TIMIT,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP66,A453,Right,,Spanish,5,English,1,,,left,42,53,14,13,20,0,4,1,2,2
+EC299,9,TIMIT,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1",NP66,A453,Right,,Spanish,5,English,1,,,left,42,53,14,13,20,0,4,1,2,2
+EC300,1,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP68,A455,Right,,,,,,,,left,33,44,1,12,12,0,0,0,9,3
+EC300,2,TIMIT,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP68,A455,Right,,,,,,,,left,33,44,1,12,12,0,0,0,9,3
+EC300,3,TIMIT,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP68,A455,Right,,,,,,,,left,33,44,1,12,12,0,0,0,9,3
+EC302,1,TIMIT,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP72,A459,Right,,,,,,,,left,52,31,43,45,11,19,30,16,13,5
+EC302,2,TIMIT,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP72,A459,Right,,,,,,,,left,52,31,43,45,11,19,30,16,13,5
+EC302,3,TIMIT,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 2: Speaker 2",NP72,A459,Right,,,,,,,,left,52,31,43,45,11,19,30,16,13,5
+EC302,4,TIMIT,NaN,Good,"ANIN 1: Microphone, ANIN 1: Speaker 1, ANIN 3: Speaker 2",NP72,A459,Right,,,,,,,,left,52,31,43,45,11,19,30,16,13,5
+EC302,6,TIMIT,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP72,A459,Right,,,,,,,,left,52,31,43,45,11,19,30,16,13,5
+EC303,4,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP74,,Right,,,,,,,,right,0,3,5,0,0,3,5,4,0,9
+EC303,5,TIMIT,5,Good,"N/A: Microphone, ANIN 1: Speaker 1, ANIN 2: Speaker 2",NP74,,Right,,,,,,,,right,0,3,5,0,0,3,5,4,0,9
+EC303,6,TIMIT,2,Good,"ANIN 1: Microphone, ANIN 1: Speaker 1, ANIN 2: Speaker 2",NP74,,Right,,,,,,,,right,0,3,5,0,0,3,5,4,0,9
+EC303,7,TIMIT,3,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP74,,Right,,,,,,,,right,0,3,5,0,0,3,5,4,0,9
+EC303,10,TIMIT,4,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP74,,Right,,,,,,,,right,0,3,5,0,0,3,5,4,0,9
+EC307,1,TIMIT,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP79,,Right,,,,,,,,left,49,58,6,8,8,5,0,0,9,2
+EC307,2,TIMIT,2,Good,,NP79,,Right,,,,,,,,left,49,58,6,8,8,5,0,0,9,2
+EC307,3,TIMIT,5,,,NP79,,Right,,,,,,,,left,49,58,6,8,8,5,0,0,9,2
+EC307,22,TIMIT,3,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP79,,Right,,,,,,,,left,49,58,6,8,8,5,0,0,9,2
+EC307,23,TIMIT,4,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP79,,Right,,,,,,,,left,49,58,6,8,8,5,0,0,9,2
+EC309,1,TIMIT,1,bad,unknown,na,na,Right,,,,,,,,left,63,38,13,8,4,1,0,0,14,4
+EC309,2,TIMIT,1,Good,unknown,na,na,Right,,,,,,,,left,63,38,13,8,4,1,0,0,14,4
+EC309,3,TIMIT,2,bad,unknown,na,na,Right,,,,,,,,left,63,38,13,8,4,1,0,0,14,4
+EC309,4,TIMIT,2,Good,unknown,na,na,Right,,,,,,,,left,63,38,13,8,4,1,0,0,14,4
+EC309,9,TIMIT,5,Good,unknown,na,na,Right,,,,,,,,left,63,38,13,8,4,1,0,0,14,4
+EC34,3,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,44,43,21,56,16,11,3,0,0
+EC34,7,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,44,43,21,56,16,11,3,0,0
+EC34,11,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,44,43,21,56,16,11,3,0,0
+EC34,13,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,44,43,21,56,16,11,3,0,0
+EC34,15,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,44,43,21,56,16,11,3,0,0
+EC34,24,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,44,43,21,56,16,11,3,0,0
+EC34,26,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,44,43,21,56,16,11,3,0,0
+EC34,27,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,44,43,21,56,16,11,3,0,0
+EC34,28,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,44,43,21,56,16,11,3,0,0
+EC34,31,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,44,43,21,56,16,11,3,0,0
+EC34,38,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,44,43,21,56,16,11,3,0,0
+EC34,39,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,44,43,21,56,16,11,3,0,0
+EC34,41,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,44,43,21,56,16,11,3,0,0
+EC34,42,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,44,43,21,56,16,11,3,0,0
+EC34,43,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,44,43,21,56,16,11,3,0,0
+EC34,45,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,44,43,21,56,16,11,3,0,0
+EC34,46,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,44,43,21,56,16,11,3,0,0
+EC34,49,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,44,43,21,56,16,11,3,0,0
+EC34,50,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,44,43,21,56,16,11,3,0,0
+EC34,52,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,44,43,21,56,16,11,3,0,0
+EC35,19,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,20,53,43,40,12,4,5,0,0
+EC35,21,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,20,53,43,40,12,4,5,0,0
+EC35,44,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,20,53,43,40,12,4,5,0,0
+EC36,28,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,43,46,27,38,10,9,0,0,0
+EC36,46,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,43,46,27,38,10,9,0,0,0
+EC36,49,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,43,46,27,38,10,9,0,0,0
+EC36,51,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,43,46,27,38,10,9,0,0,0
+EC36,61,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,43,46,27,38,10,9,0,0,0
+EC36,63,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,43,46,27,38,10,9,0,0,0
+EC37,22,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,59,55,39,42,29,29,0,0,0,0
+EC37,25,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,59,55,39,42,29,29,0,0,0,0
+EC37,32,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,59,55,39,42,29,29,0,0,0,0
+EC37,42,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,59,55,39,42,29,29,0,0,0,0
+EC37,49,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,59,55,39,42,29,29,0,0,0,0
+EC37,58,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,59,55,39,42,29,29,0,0,0,0
+EC37,59,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,59,55,39,42,29,29,0,0,0,0
+EC37,63,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,59,55,39,42,29,29,0,0,0,0
+EC37,67,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,59,55,39,42,29,29,0,0,0,0
+EC37,73,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,59,55,39,42,29,29,0,0,0,0
+EC48,2,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,1,79,42,53,43,16,14,2,0,0
+EC48,6,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,1,79,42,53,43,16,14,2,0,0
+EC48,10,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,1,79,42,53,43,16,14,2,0,0
+EC50,20,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,24,MOCHA,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,27,MOCHA,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,39,MOCHA,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,40,MOCHA,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,45,MOCHA,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,46,MOCHA,7,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,48,MOCHA,8,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,49,MOCHA,9,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,54,MOCHA,9,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,55,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,57,MOCHA,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,58,MOCHA,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,60,MOCHA,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,61,MOCHA,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,63,MOCHA,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,64,MOCHA,7,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,66,MOCHA,8,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC50,67,MOCHA,9,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,76,31,35,28,12,9,8,0,3
+EC51,3,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,26,0,54,42,14,23,35,33,0,0
+EC51,4,MOCHA,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,26,0,54,42,14,23,35,33,0,0
+EC51,8,MOCHA,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,26,0,54,42,14,23,35,33,0,0
+EC51,11,MOCHA,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,26,0,54,42,14,23,35,33,0,0
+EC51,12,MOCHA,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,26,0,54,42,14,23,35,33,0,0
+EC51,13,MOCHA,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,26,0,54,42,14,23,35,33,0,0
+EC51,14,MOCHA,7,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,26,0,54,42,14,23,35,33,0,0
+EC51,15,MOCHA,8,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,26,0,54,42,14,23,35,33,0,0
+EC51,16,MOCHA,9,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,26,0,54,42,14,23,35,33,0,0
+EC51,20,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,26,0,54,42,14,23,35,33,0,0
+EC51,22,MOCHA,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,26,0,54,42,14,23,35,33,0,0
+EC51,27,MOCHA,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,26,0,54,42,14,23,35,33,0,0
+EC51,29,MOCHA,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,26,0,54,42,14,23,35,33,0,0
+EC51,36,MOCHA,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,26,0,54,42,14,23,35,33,0,0
+EC51,38,MOCHA,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,26,0,54,42,14,23,35,33,0,0
+EC51,40,MOCHA,7,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,26,0,54,42,14,23,35,33,0,0
+EC51,41,MOCHA,8,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,26,0,54,42,14,23,35,33,0,0
+EC51,42,MOCHA,9,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,26,0,54,42,14,23,35,33,0,0
+EC52,4,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,46,17,38,52,77,0,0,0,0,0
+EC52,7,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,46,17,38,52,77,0,0,0,0,0
+EC52,8,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,46,17,38,52,77,0,0,0,0,0
+EC52,16,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,46,17,38,52,77,0,0,0,0,0
+EC52,21,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,46,17,38,52,77,0,0,0,0,0
+EC52,22,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,46,17,38,52,77,0,0,0,0,0
+EC55,20,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,75,39,38,38,33,23,3,0,0,0
+EC55,34,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,75,39,38,38,33,23,3,0,0,0
+EC55,38,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,75,39,38,38,33,23,3,0,0,0
+EC55,47,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,75,39,38,38,33,23,3,0,0,0
+EC55,48,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,75,39,38,38,33,23,3,0,0,0
+EC55,50,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,75,39,38,38,33,23,3,0,0,0
+EC55,51,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,75,39,38,38,33,23,3,0,0,0
+EC55,52,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,75,39,38,38,33,23,3,0,0,0
+EC55,53,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,75,39,38,38,33,23,3,0,0,0
+EC56,8,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,11,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,13,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,15,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,16,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,17,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,22,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,23,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,24,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,27,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,29,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,30,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,34,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,37,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,44,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,45,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,46,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,49,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,50,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC58,26,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC58,27,MOCHA,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC58,28,MOCHA,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC58,38,MOCHA,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC58,39,MOCHA,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC58,42,MOCHA,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC58,43,MOCHA,7,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC58,44,MOCHA,8,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC58,45,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC58,46,MOCHA,9,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC61,3,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,4,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,6,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,8,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,10,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,12,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,14,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,15,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,19,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,23,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,28,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,30,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,38,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,40,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,42,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,46,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,47,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,48,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,49,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,57,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,61,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,72,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,73,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,82,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC73,2,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,bilateralOrUnknown,16,0,11,14,14,4,15,5,0,0
+EC74,16,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,12,12,9,7,20,6,0,2,2,0
+EC74,20,MOCHA,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,12,12,9,7,20,6,0,2,2,0
+EC74,27,MOCHA,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,12,12,9,7,20,6,0,2,2,0
+EC74,31,MOCHA,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,12,12,9,7,20,6,0,2,2,0
+EC74,36,MOCHA,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,12,12,9,7,20,6,0,2,2,0
+EC74,43,MOCHA,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,12,12,9,7,20,6,0,2,2,0
+EC74,49,MOCHA,7,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,12,12,9,7,20,6,0,2,2,0
+EC74,54,MOCHA,8,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,12,12,9,7,20,6,0,2,2,0
+EC74,57,MOCHA,9,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,12,12,9,7,20,6,0,2,2,0
+EC74,64,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,12,12,9,7,20,6,0,2,2,0
+EC77,5,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,65,27,41,33,13,17,24,32,0,1
+EC77,6,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,65,27,41,33,13,17,24,32,0,1
+EC77,7,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,65,27,41,33,13,17,24,32,0,1
+EC77,10,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,65,27,41,33,13,17,24,32,0,1
+EC77,14,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,65,27,41,33,13,17,24,32,0,1
+EC77,22,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,65,27,41,33,13,17,24,32,0,1
+EC77,29,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,65,27,41,33,13,17,24,32,0,1
+EC77,30,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,65,27,41,33,13,17,24,32,0,1
+EC77,34,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,65,27,41,33,13,17,24,32,0,1
+EC79,4,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,48,42,37,25,15,11,10,0,3
+EC79,5,MOCHA,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,48,42,37,25,15,11,10,0,3
+EC79,21,MOCHA,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,48,42,37,25,15,11,10,0,3
+EC79,25,MOCHA,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,48,42,37,25,15,11,10,0,3
+EC79,35,MOCHA,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,48,42,37,25,15,11,10,0,3
+EC79,36,MOCHA,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,48,42,37,25,15,11,10,0,3
+EC79,38,MOCHA,7,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,48,42,37,25,15,11,10,0,3
+EC79,40,MOCHA,8,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,48,42,37,25,15,11,10,0,3
+EC79,41,MOCHA,9,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,48,42,37,25,15,11,10,0,3
+EC82,2,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC82,3,MOCHA,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC82,5,MOCHA,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC82,11,MOCHA,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC82,26,MOCHA,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC82,28,MOCHA,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC82,32,MOCHA,7,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC82,35,MOCHA,8,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC82,95,MOCHA,9,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC84,6,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,8,MOCHA,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,10,MOCHA,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,13,MOCHA,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,17,MOCHA,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,19,MOCHA,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,26,MOCHA,7,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,27,MOCHA,8,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,31,MOCHA,9,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,35,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,36,MOCHA,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,39,MOCHA,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,41,MOCHA,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,42,MOCHA,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,43,MOCHA,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,46,MOCHA,7,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,47,MOCHA,8,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,48,MOCHA,9,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,52,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,55,MOCHA,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,58,MOCHA,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,63,MOCHA,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,66,MOCHA,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,68,MOCHA,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,69,MOCHA,7,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,72,MOCHA,8,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,74,MOCHA,9,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC91,5,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,31,42,34,53,12,10,6,2,2
+EC91,6,MOCHA,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,31,42,34,53,12,10,6,2,2
+EC91,7,MOCHA,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,31,42,34,53,12,10,6,2,2
+EC91,10,MOCHA,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,31,42,34,53,12,10,6,2,2
+EC91,11,MOCHA,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,31,42,34,53,12,10,6,2,2
+EC91,12,MOCHA,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,31,42,34,53,12,10,6,2,2
+EC91,14,MOCHA,7,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,31,42,34,53,12,10,6,2,2
+EC91,25,MOCHA,8,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,31,42,34,53,12,10,6,2,2
+EC91,26,MOCHA,9,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,31,42,34,53,12,10,6,2,2
+EC91,27,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,31,42,34,53,12,10,6,2,2
+EC91,31,MOCHA,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,31,42,34,53,12,10,6,2,2
+EC91,35,MOCHA,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,31,42,34,53,12,10,6,2,2
+EC91,36,MOCHA,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,31,42,34,53,12,10,6,2,2
+EC91,38,MOCHA,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,31,42,34,53,12,10,6,2,2
+EC91,39,MOCHA,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,31,42,34,53,12,10,6,2,2
+EC91,40,MOCHA,7,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,31,42,34,53,12,10,6,2,2
+EC92,32,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,44,67,34,38,35,27,7,1,6,5
+EC92,43,MOCHA,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,44,67,34,38,35,27,7,1,6,5
+EC92,44,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,44,67,34,38,35,27,7,1,6,5
+EC96,10,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,7,54,54,39,17,11,2,0,1
+EC96,12,MOCHA,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,7,54,54,39,17,11,2,0,1
+EC96,15,MOCHA,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,7,54,54,39,17,11,2,0,1
+EC96,18,MOCHA,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,7,54,54,39,17,11,2,0,1
+EC96,20,MOCHA,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,7,54,54,39,17,11,2,0,1
+EC96,30,MOCHA,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,7,54,54,39,17,11,2,0,1
+EC96,32,MOCHA,8,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,7,54,54,39,17,11,2,0,1
+EC96,33,MOCHA,9,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,7,54,54,39,17,11,2,0,1
+EC98,23,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,0,0,0,0,0,0,0,0
+EC108,1,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,47,65,26,41,21,34,25,19,14,3
+EC108,2,MOCHA,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,47,65,26,41,21,34,25,19,14,3
+EC108,8,MOCHA,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,47,65,26,41,21,34,25,19,14,3
+EC108,13,MOCHA,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,47,65,26,41,21,34,25,19,14,3
+EC108,14,MOCHA,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,47,65,26,41,21,34,25,19,14,3
+EC108,15,MOCHA,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,47,65,26,41,21,34,25,19,14,3
+EC108,16,MOCHA,7,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,47,65,26,41,21,34,25,19,14,3
+EC108,20,MOCHA,8,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,47,65,26,41,21,34,25,19,14,3
+EC108,21,MOCHA,9,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,47,65,26,41,21,34,25,19,14,3
+EC110,1,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,bilateralOrUnknown,0,0,0,0,0,0,0,0,26,28
+EC110,2,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,bilateralOrUnknown,0,0,0,0,0,0,0,0,26,28
+EC110,5,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,bilateralOrUnknown,0,0,0,0,0,0,0,0,26,28
+EC113,12,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,72,59,33,42,25,32,19,4,0,0
+EC118,4,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC118,6,MOCHA,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC118,8,MOCHA,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC118,12,MOCHA,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC118,17,MOCHA,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC118,18,MOCHA,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC118,20,MOCHA,7,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC118,32,MOCHA,8,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC118,34,MOCHA,9,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC118,41,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC118,57,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC118,61,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC118,66,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC118,69,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC118,73,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC118,77,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC118,83,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC118,87,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC121,3,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,0,0,65,51,39,19,30,7,0,0
+EC121,4,MOCHA,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,0,0,65,51,39,19,30,7,0,0
+EC121,5,MOCHA,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,0,0,65,51,39,19,30,7,0,0
+EC121,8,MOCHA,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,0,0,65,51,39,19,30,7,0,0
+EC121,9,MOCHA,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,0,0,65,51,39,19,30,7,0,0
+EC121,10,MOCHA,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,0,0,65,51,39,19,30,7,0,0
+EC121,20,MOCHA,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,0,0,65,51,39,19,30,7,0,0
+EC121,21,MOCHA,7,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,0,0,65,51,39,19,30,7,0,0
+EC121,22,MOCHA,8,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,0,0,65,51,39,19,30,7,0,0
+EC121,25,MOCHA,9,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,0,0,65,51,39,19,30,7,0,0
+EC131,57,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,78,22,39,53,49,6,3,0,19,0
+EC131,58,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,78,22,39,53,49,6,3,0,19,0
+EC131,63,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,78,22,39,53,49,6,3,0,19,0
+EC131,64,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,78,22,39,53,49,6,3,0,19,0
+EC131,65,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,78,22,39,53,49,6,3,0,19,0
+EC131,66,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,78,22,39,53,49,6,3,0,19,0
+EC131,67,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,78,22,39,53,49,6,3,0,19,0
+EC131,68,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,78,22,39,53,49,6,3,0,19,0
+EC131,69,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,78,22,39,53,49,6,3,0,19,0
+EC131,70,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,78,22,39,53,49,6,3,0,19,0
+EC136,4,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,37,50,39,18,15,42,0,22,3
+EC136,6,MOCHA,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,37,50,39,18,15,42,0,22,3
+EC136,13,MOCHA,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,37,50,39,18,15,42,0,22,3
+EC137,3,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,5,MOCHA,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,6,MOCHA,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,42,MOCHA,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,44,MOCHA,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,47,MOCHA,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,48,MOCHA,7,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,49,MOCHA,8,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,50,MOCHA,9,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,57,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,70,MOCHA,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,78,MOCHA,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,81,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,86,MOCHA,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC141,2,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,45,53,48,30,17,8,0,0,1
+EC141,11,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,45,53,48,30,17,8,0,0,1
+EC141,12,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,45,53,48,30,17,8,0,0,1
+EC141,14,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,45,53,48,30,17,8,0,0,1
+EC141,15,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,45,53,48,30,17,8,0,0,1
+EC141,16,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,45,53,48,30,17,8,0,0,1
+EC141,20,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,45,53,48,30,17,8,0,0,1
+EC141,21,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,45,53,48,30,17,8,0,0,1
+EC141,42,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,45,53,48,30,17,8,0,0,1
+EC142,2,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,58,50,56,32,17,16,18,10,0,2
+EC142,13,MOCHA,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,58,50,56,32,17,16,18,10,0,2
+EC142,35,MOCHA,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,58,50,56,32,17,16,18,10,0,2
+EC153,1,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,73,38,38,32,17,12,19,14,0,3
+EC153,2,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,73,38,38,32,17,12,19,14,0,3
+EC153,19,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,73,38,38,32,17,12,19,14,0,3
+EC153,20,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,73,38,38,32,17,12,19,14,0,3
+EC153,22,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,73,38,38,32,17,12,19,14,0,3
+EC153,23,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,73,38,38,32,17,12,19,14,0,3
+EC169,31,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,72,84,48,0,11,0,7,10
+EC169,33,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,72,84,48,0,11,0,7,10
+EC169,36,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,72,84,48,0,11,0,7,10
+EC169,37,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,72,84,48,0,11,0,7,10
+EC169,40,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,72,84,48,0,11,0,7,10
+EC169,41,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,72,84,48,0,11,0,7,10
+EC169,42,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,72,84,48,0,11,0,7,10
+EC169,43,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,72,84,48,0,11,0,7,10
+EC169,44,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,72,84,48,0,11,0,7,10
+EC169,45,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,72,84,48,0,11,0,7,10
+EC173,17,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC173,18,MOCHA,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC173,19,MOCHA,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC173,20,MOCHA,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC173,21,MOCHA,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC173,33,MOCHA,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC173,35,MOCHA,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC173,38,MOCHA,7,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC173,39,MOCHA,7,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC173,44,MOCHA,8,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC173,45,MOCHA,9,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC176,11,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,70,74,45,4,0,0,14,9
+EC176,12,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,70,74,45,4,0,0,14,9
+EC176,20,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,70,74,45,4,0,0,14,9
+EC176,21,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,70,74,45,4,0,0,14,9
+EC176,22,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,70,74,45,4,0,0,14,9
+EC176,28,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,70,74,45,4,0,0,14,9
+EC176,29,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,70,74,45,4,0,0,14,9
+EC176,30,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,70,74,45,4,0,0,14,9
+EC176,31,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,70,74,45,4,0,0,14,9
+EC176,41,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,70,74,45,4,0,0,14,9
+EC176,50,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,70,74,45,4,0,0,14,9
+EC176,51,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,70,74,45,4,0,0,14,9
+EC176,52,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,70,74,45,4,0,0,14,9
+EC176,53,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,70,74,45,4,0,0,14,9
+EC176,54,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,70,74,45,4,0,0,14,9
+EC176,55,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,70,74,45,4,0,0,14,9
+EC176,56,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,70,74,45,4,0,0,14,9
+EC176,57,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,70,74,45,4,0,0,14,9
+EC179,2,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,15,57,57,25,8,7,49,25,0,3
+EC179,3,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,15,57,57,25,8,7,49,25,0,3
+EC179,4,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,15,57,57,25,8,7,49,25,0,3
+EC179,5,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,15,57,57,25,8,7,49,25,0,3
+EC179,7,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,15,57,57,25,8,7,49,25,0,3
+EC179,10,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,15,57,57,25,8,7,49,25,0,3
+EC179,11,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,15,57,57,25,8,7,49,25,0,3
+EC179,12,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,15,57,57,25,8,7,49,25,0,3
+EC179,13,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,15,57,57,25,8,7,49,25,0,3
+EC179,14,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,15,57,57,25,8,7,49,25,0,3
+EC179,16,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,15,57,57,25,8,7,49,25,0,3
+EC179,17,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,15,57,57,25,8,7,49,25,0,3
+EC179,18,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,15,57,57,25,8,7,49,25,0,3
+EC181,23,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,0,0,0,0,0,0,17,33
+EC183,3,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,6,MOCHA,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,9,MOCHA,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,12,MOCHA,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,15,MOCHA,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,17,MOCHA,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,18,MOCHA,7,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,22,MOCHA,8,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,27,MOCHA,9,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,30,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,33,MOCHA,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,38,MOCHA,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,40,MOCHA,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,42,MOCHA,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,44,MOCHA,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,46,MOCHA,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,48,MOCHA,7,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,50,MOCHA,8,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,51,MOCHA,9,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,65,MOCHA,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,66,MOCHA,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,69,MOCHA,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,102,MOCHA,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,104,MOCHA,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC186,5,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC186,26,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC186,27,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC186,28,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC186,32,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC186,33,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC186,45,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC186,47,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC186,51,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC188,9,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,34,38,49,51,50,2,19,0,0,1
+EC188,10,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,34,38,49,51,50,2,19,0,0,1
+EC189,2,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,11,1,55,94,55,15,0,0,0,0
+EC189,3,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,11,1,55,94,55,15,0,0,0,0
+EC189,4,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,11,1,55,94,55,15,0,0,0,0
+EC189,5,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,11,1,55,94,55,15,0,0,0,0
+EC189,6,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,11,1,55,94,55,15,0,0,0,0
+EC189,13,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,11,1,55,94,55,15,0,0,0,0
+EC189,14,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,11,1,55,94,55,15,0,0,0,0
+EC189,15,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,11,1,55,94,55,15,0,0,0,0
+EC189,16,MOCHA,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,11,1,55,94,55,15,0,0,0,0
+EC204,35,MOCHA,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,No,English,5,Hindi,1,,,right,39,15,59,34,67,7,2,11,0,9
+EC204,36,MOCHA,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,No,English,5,Hindi,1,,,right,39,15,59,34,67,7,2,11,0,9
+EC204,37,MOCHA,3,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,No,English,5,Hindi,1,,,right,39,15,59,34,67,7,2,11,0,9
+EC204,38,MOCHA,4,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,No,English,5,Hindi,1,,,right,39,15,59,34,67,7,2,11,0,9
+EC204,39,MOCHA,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,No,English,5,Hindi,1,,,right,39,15,59,34,67,7,2,11,0,9
+EC204,42,MOCHA,6,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,No,English,5,Hindi,1,,,right,39,15,59,34,67,7,2,11,0,9
+EC204,43,MOCHA,7,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,No,English,5,Hindi,1,,,right,39,15,59,34,67,7,2,11,0,9
+EC241,15,MOCHA,1,Bad,unknown,na,na,Right,,,,,,,,bilateralOrUnknown,2,2,70,26,0,2,2,0,0,2
+EC241,16,MOCHA,1,Good,unknown,na,na,Right,,,,,,,,bilateralOrUnknown,2,2,70,26,0,2,2,0,0,2
+EC241,17,MOCHA,2,Good,unknown,na,na,Right,,,,,,,,bilateralOrUnknown,2,2,70,26,0,2,2,0,0,2
+EC241,20,MOCHA,3,Good,unknown,na,na,Right,,,,,,,,bilateralOrUnknown,2,2,70,26,0,2,2,0,0,2
+EC241,24,MOCHA,4,Good,unknown,na,na,Right,,,,,,,,bilateralOrUnknown,2,2,70,26,0,2,2,0,0,2
+EC241,26,MOCHA,5,Good,unknown,na,na,Right,,,,,,,,bilateralOrUnknown,2,2,70,26,0,2,2,0,0,2
+EC241,27,MOCHA,6,Good,unknown,na,na,Right,,,,,,,,bilateralOrUnknown,2,2,70,26,0,2,2,0,0,2
+EC241,29,MOCHA,7,Good,unknown,na,na,Right,,,,,,,,bilateralOrUnknown,2,2,70,26,0,2,2,0,0,2
+EC241,43,MOCHA,8,Good,unknown,na,na,Right,,,,,,,,bilateralOrUnknown,2,2,70,26,0,2,2,0,0,2
+EC241,46,MOCHA,9,Good,unknown,na,na,Right,,,,,,,,bilateralOrUnknown,2,2,70,26,0,2,2,0,0,2
+EC243,21,MOCHA,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP08,NA,na,na,English,5,Spanish,1,drum,NaN,left,50,28,42,60,34,1,7,2,10,0
+EC243,22,MOCHA,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP08,NA,na,na,English,5,Spanish,1,drum,NaN,left,50,28,42,60,34,1,7,2,10,0
+EC243,25,MOCHA,NaN,Bad,,NP08,NA,na,na,English,5,Spanish,1,drum,NaN,left,50,28,42,60,34,1,7,2,10,0
+EC243,26,MOCHA,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP08,NA,na,na,English,5,Spanish,1,drum,NaN,left,50,28,42,60,34,1,7,2,10,0
+EC243,27,MOCHA,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP08,NA,na,na,English,5,Spanish,1,drum,NaN,left,50,28,42,60,34,1,7,2,10,0
+EC253,36,MOCHA,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP23,NA,na,na,English,5,,NaN,Piano,1,left,57,27,45,48,33,26,6,4,15,3
+EC253,38,MOCHA,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP23,NA,na,na,English,5,,NaN,Piano,1,left,57,27,45,48,33,26,6,4,15,3
+EC253,42,MOCHA,3,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP23,NA,na,na,English,5,,NaN,Piano,1,left,57,27,45,48,33,26,6,4,15,3
+EC253,46,MOCHA,4,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP23,NA,na,na,English,5,,NaN,Piano,1,left,57,27,45,48,33,26,6,4,15,3
+EC253,50,MOCHA,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP23,NA,na,na,English,5,,NaN,Piano,1,left,57,27,45,48,33,26,6,4,15,3
+EC253,56,MOCHA,6,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP23,NA,na,na,English,5,,NaN,Piano,1,left,57,27,45,48,33,26,6,4,15,3
+EC253,73,MOCHA,7,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP23,NA,na,na,English,5,,NaN,Piano,1,left,57,27,45,48,33,26,6,4,15,3
+EC253,76,MOCHA,8,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP23,NA,na,na,English,5,,NaN,Piano,1,left,57,27,45,48,33,26,6,4,15,3
+EC253,84,MOCHA,9,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP23,NA,na,na,English,5,,NaN,Piano,1,left,57,27,45,48,33,26,6,4,15,3
+EC254,19,MOCHA,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP22,NA,Right,None,,,,,clarinet,1yr,left,52,68,27,25,19,29,9,12,17,7
+EC254,20,MOCHA,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP22,NA,Right,None,,,,,clarinet,1yr,left,52,68,27,25,19,29,9,12,17,7
+EC254,21,MOCHA,3,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP22,NA,Right,None,,,,,clarinet,1yr,left,52,68,27,25,19,29,9,12,17,7
+EC254,22,MOCHA,4,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP22,NA,Right,None,,,,,clarinet,1yr,left,52,68,27,25,19,29,9,12,17,7
+EC254,23,MOCHA,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP22,NA,Right,None,,,,,clarinet,1yr,left,52,68,27,25,19,29,9,12,17,7
+EC254,24,MOCHA,6,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP22,NA,Right,None,,,,,clarinet,1yr,left,52,68,27,25,19,29,9,12,17,7
+EC254,25,MOCHA,7,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP22,NA,Right,None,,,,,clarinet,1yr,left,52,68,27,25,19,29,9,12,17,7
+EC254,26,MOCHA,8,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP22,NA,Right,None,,,,,clarinet,1yr,left,52,68,27,25,19,29,9,12,17,7
+EC254,27,MOCHA,9,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP22,NA,Right,None,,,,,clarinet,1yr,left,52,68,27,25,19,29,9,12,17,7
+EC260,20,MOCHA,1,Good,,na,na,Right,No,Spanish,5,English,4,,,left,32,75,42,27,3,33,11,11,15,7
+EC260,21,MOCHA,2,Good,,na,na,Right,No,Spanish,5,English,4,,,left,32,75,42,27,3,33,11,11,15,7
+EC260,27,MOCHA,3,Good,,na,na,Right,No,Spanish,5,English,4,,,left,32,75,42,27,3,33,11,11,15,7
+EC260,28,MOCHA,4,Good,,na,na,Right,No,Spanish,5,English,4,,,left,32,75,42,27,3,33,11,11,15,7
+EC260,36,MOCHA,5,Good,,na,na,Right,No,Spanish,5,English,4,,,left,32,75,42,27,3,33,11,11,15,7
+EC260,39,MOCHA,6,Good,,na,na,Right,No,Spanish,5,English,4,,,left,32,75,42,27,3,33,11,11,15,7
+EC260,47,MOCHA,7,Good,,na,na,Right,No,Spanish,5,English,4,,,left,32,75,42,27,3,33,11,11,15,7
+EC260,55,MOCHA,8,Good,,na,na,Right,No,Spanish,5,English,4,,,left,32,75,42,27,3,33,11,11,15,7
+EC260,56,MOCHA,9,Good,,na,na,Right,No,Spanish,5,English,4,,,left,32,75,42,27,3,33,11,11,15,7
+EC265,11,MOCHA,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,,,,,,,,,left,60,31,55,37,4,27,26,7,15,4
+EC265,12,MOCHA,2,Good,,na,na,,,,,,,,,left,60,31,55,37,4,27,26,7,15,4
+EC267,2,MOCHA,1,Good,,na,na,Right,None,English,5,Spanish,5,Trumpet,"3 years, 3rd to 5th grade",left,5,2,41,59,28,33,28,23,19,2
+EC267,34,MOCHA,2,Good,,na,na,Right,None,English,5,Spanish,5,Trumpet,"3 years, 3rd to 5th grade",left,5,2,41,59,28,33,28,23,19,2
+EC267,39,MOCHA,3,Good,,na,na,Right,None,English,5,Spanish,5,Trumpet,"3 years, 3rd to 5th grade",left,5,2,41,59,28,33,28,23,19,2
+EC267,40,MOCHA,4,Good,,na,na,Right,None,English,5,Spanish,5,Trumpet,"3 years, 3rd to 5th grade",left,5,2,41,59,28,33,28,23,19,2
+EC267,45,MOCHA,5,Good,,na,na,Right,None,English,5,Spanish,5,Trumpet,"3 years, 3rd to 5th grade",left,5,2,41,59,28,33,28,23,19,2
+EC267,46,MOCHA,6,Good,,na,na,Right,None,English,5,Spanish,5,Trumpet,"3 years, 3rd to 5th grade",left,5,2,41,59,28,33,28,23,19,2
+EC268,6,MOCHA,1,Bad,,NP35,A424,Right,,,,,,,,right,32,79,40,38,59,3,0,0,0,3
+EC268,7,MOCHA,1,Good,,NP35,A424,Right,,,,,,,,right,32,79,40,38,59,3,0,0,0,3
+EC268,8,MOCHA,2,Good,,NP35,A424,Right,,,,,,,,right,32,79,40,38,59,3,0,0,0,3
+EC271,6,MOCHA,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,no,English,5,,,no,,left,67,22,50,32,10,30,15,19,21,7
+EC271,8,MOCHA,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,no,English,5,,,no,,left,67,22,50,32,10,30,15,19,21,7
+EC271,9,MOCHA,3,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,no,English,5,,,no,,left,67,22,50,32,10,30,15,19,21,7
+EC273,4,MOCHA,1,Good,,na,na,Right,No,English,,Spanish,3,,,left,52,62,30,34,5,21,21,10,20,3
+EC275,8,MOCHA,1,Good,unknown,na,na,Ambidextrous,no,English,5,,,saxophone,10 years,right,52,58,46,30,32,6,10,3,0,3
+EC275,9,MOCHA,2,Good,unknown,na,na,Ambidextrous,no,English,5,,,saxophone,10 years,right,52,58,46,30,32,6,10,3,0,3
+EC275,13,MOCHA,3,Good,unknown,na,na,Ambidextrous,no,English,5,,,saxophone,10 years,right,52,58,46,30,32,6,10,3,0,3
+EC275,14,MOCHA,4,Good,unknown,na,na,Ambidextrous,no,English,5,,,saxophone,10 years,right,52,58,46,30,32,6,10,3,0,3
+EC282,55,MOCHA,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP48,A436,Right,No,English,5,Spanish,3,Clarinet,4,left,48,67,6,16,13,0,0,0,17,2
+EC282,56,MOCHA,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP48,A436,Right,No,English,5,Spanish,3,Clarinet,4,left,48,67,6,16,13,0,0,0,17,2
+EC295,3,MOCHA,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,na,na,English,,,,,,right,0,0,61,39,13,0,0,0,0,2
+EC295,4,MOCHA,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,na,na,English,,,,,,right,0,0,61,39,13,0,0,0,0,2
+EC295,7,MOCHA,3,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,na,na,English,,,,,,right,0,0,61,39,13,0,0,0,0,2
+EC295,8,MOCHA,4,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,na,na,English,,,,,,right,0,0,61,39,13,0,0,0,0,2
+EC302,5,MOCHA,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 2: Speaker 2",NP72,A459,Right,,,,,,,,left,52,31,43,45,11,19,30,16,13,5
+EC302,8,MOCHA,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP72,A459,Right,,,,,,,,left,52,31,43,45,11,19,30,16,13,5
+EC302,26,MOCHA,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP72,A459,Right,,,,,,,,left,52,31,43,45,11,19,30,16,13,5
+EC302,27,MOCHA,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP72,A459,Right,,,,,,,,left,52,31,43,45,11,19,30,16,13,5
+EC307,27,MOCHA,NaN,Bad,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP79,,Right,,,,,,,,left,49,58,6,8,8,5,0,0,9,2
+EC307,28,MOCHA,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP79,,Right,,,,,,,,left,49,58,6,8,8,5,0,0,9,2
+EC307,29,MOCHA,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP79,,Right,,,,,,,,left,49,58,6,8,8,5,0,0,9,2
+EC157,45,BURSC,1,unknown,unknown,NP26,A414,nan,nan,na,na,na,na,na,na,left,79,62,30,48,23,28,9,2,9,2
+EC157,48,BURSC,2,unknown,unknown,NP26,A414,nan,nan,na,na,na,na,na,na,left,79,62,30,48,23,28,9,2,9,2
+EC157,49,BURSC,3,unknown,unknown,NP26,A414,nan,nan,na,na,na,na,na,na,left,79,62,30,48,23,28,9,2,9,2
+EC157,50,BURSC,4,unknown,unknown,NP26,A414,nan,nan,na,na,na,na,na,na,left,79,62,30,48,23,28,9,2,9,2
+EC157,57,BURSC,5,unknown,unknown,NP26,A414,nan,nan,na,na,na,na,na,na,left,79,62,30,48,23,28,9,2,9,2
+EC157,58,BURSC,6,unknown,unknown,NP26,A414,nan,nan,na,na,na,na,na,na,left,79,62,30,48,23,28,9,2,9,2
+EC166,15,BURSC,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,43,38,28,10,39,1,27,0,5
+EC166,16,BURSC,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,43,38,28,10,39,1,27,0,5
+EC166,17,BURSC,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,43,38,28,10,39,1,27,0,5
+EC166,46,BURSC,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,43,38,28,10,39,1,27,0,5
+EC166,47,BURSC,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,43,38,28,10,39,1,27,0,5
+EC166,49,BURSC,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,43,38,28,10,39,1,27,0,5
+EC168,1,BURSC,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,53,52,52,42,23,20,22,9,14,1
+EC168,2,BURSC,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,53,52,52,42,23,20,22,9,14,1
+EC168,27,BURSC,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,53,52,52,42,23,20,22,9,14,1
+EC168,36,BURSC,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,53,52,52,42,23,20,22,9,14,1
+EC168,41,BURSC,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,53,52,52,42,23,20,22,9,14,1
+EC168,46,BURSC,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,53,52,52,42,23,20,22,9,14,1
+EC173,8,BURSC,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC173,9,BURSC,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC173,10,BURSC,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC173,11,BURSC,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC173,12,BURSC,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC173,13,BURSC,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC173,14,BURSC,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC180,11,BURSC,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,bilateralOrUnknown,0,0,0,0,0,0,0,0,25,65
+EC182,1,BURSC,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,54,11,40,48,23,18,42,12,17,2
+EC182,4,BURSC,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,54,11,40,48,23,18,42,12,17,2
+EC182,6,BURSC,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,54,11,40,48,23,18,42,12,17,2
+EC182,10,BURSC,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,54,11,40,48,23,18,42,12,17,2
+EC182,14,BURSC,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,54,11,40,48,23,18,42,12,17,2
+EC182,18,BURSC,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,54,11,40,48,23,18,42,12,17,2
+EC183,71,BURSC,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,72,BURSC,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,155,BURSC,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,156,BURSC,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,162,BURSC,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,163,BURSC,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC186,79,BURSC,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC186,81,BURSC,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC186,83,BURSC,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC186,84,BURSC,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC186,85,BURSC,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC186,86,BURSC,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC187,7,BURSC,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,37,28,0,0,52,0,0,0,10,3
+EC187,9,BURSC,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,37,28,0,0,52,0,0,0,10,3
+EC187,11,BURSC,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,37,28,0,0,52,0,0,0,10,3
+EC187,12,BURSC,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,37,28,0,0,52,0,0,0,10,3
+EC187,13,BURSC,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,37,28,0,0,52,0,0,0,10,3
+EC187,14,BURSC,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,37,28,0,0,52,0,0,0,10,3
+EC193,20,BURSC,1,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,35,86,30,27,36,18,0,22,20,3
+EC193,21,BURSC,2,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,35,86,30,27,36,18,0,22,20,3
+EC193,22,BURSC,3,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,35,86,30,27,36,18,0,22,20,3
+EC193,23,BURSC,4,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,35,86,30,27,36,18,0,22,20,3
+EC193,24,BURSC,5,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,35,86,30,27,36,18,0,22,20,3
+EC193,25,BURSC,6,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,35,86,30,27,36,18,0,22,20,3
+EC222,48,BURSC,1,Good,,na,na,nan,nan,na,na,na,na,na,na,left,68,84,2,2,28,4,0,0,17,5
+EC222,56,BURSC,2,Good,,na,na,nan,nan,na,na,na,na,na,na,left,68,84,2,2,28,4,0,0,17,5
+EC222,57,BURSC,3,Good,,na,na,nan,nan,na,na,na,na,na,na,left,68,84,2,2,28,4,0,0,17,5
+EC222,58,BURSC,4,Good,,na,na,nan,nan,na,na,na,na,na,na,left,68,84,2,2,28,4,0,0,17,5
+EC222,60,BURSC,5,Good,,na,na,nan,nan,na,na,na,na,na,na,left,68,84,2,2,28,4,0,0,17,5
+EC222,61,BURSC,6,Good,,na,na,nan,nan,na,na,na,na,na,na,left,68,84,2,2,28,4,0,0,17,5
+EC228,28,BURSC,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,na,na,English,,,,Singing,Growing up (childhood/school),left,55,57,28,45,63,0,0,0,7,2
+EC228,29,BURSC,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,na,na,English,,,,Singing,Growing up (childhood/school),left,55,57,28,45,63,0,0,0,7,2
+EC228,31,BURSC,3,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,na,na,English,,,,Singing,Growing up (childhood/school),left,55,57,28,45,63,0,0,0,7,2
+EC228,32,BURSC,4,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,na,na,English,,,,Singing,Growing up (childhood/school),left,55,57,28,45,63,0,0,0,7,2
+EC228,33,BURSC,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,na,na,English,,,,Singing,Growing up (childhood/school),left,55,57,28,45,63,0,0,0,7,2
+EC250,35,BURSC,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP18,NA,Right,no,English,,,,trumpet,fifth grade; for a year,left,61,39,61,48,4,16,14,0,11,2
+EC250,36,BURSC,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP18,NA,Right,no,English,,,,trumpet,fifth grade; for a year,left,61,39,61,48,4,16,14,0,11,2
+EC250,37,BURSC,3,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP18,NA,Right,no,English,,,,trumpet,fifth grade; for a year,left,61,39,61,48,4,16,14,0,11,2
+EC250,38,BURSC,4,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP18,NA,Right,no,English,,,,trumpet,fifth grade; for a year,left,61,39,61,48,4,16,14,0,11,2
+EC250,39,BURSC,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP18,NA,Right,no,English,,,,trumpet,fifth grade; for a year,left,61,39,61,48,4,16,14,0,11,2
+EC250,40,BURSC,6,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP18,NA,Right,no,English,,,,trumpet,fifth grade; for a year,left,61,39,61,48,4,16,14,0,11,2
+EC253,5,BURSC,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 2: Speaker 2",NP23,NA,na,na,English,5,,NaN,Piano,1,left,57,27,45,48,33,26,6,4,15,3
+EC253,6,BURSC,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 2: Speaker 2",NP23,NA,na,na,English,5,,NaN,Piano,1,left,57,27,45,48,33,26,6,4,15,3
+EC253,7,BURSC,3,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 2: Speaker 2",NP23,NA,na,na,English,5,,NaN,Piano,1,left,57,27,45,48,33,26,6,4,15,3
+EC253,8,BURSC,4,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 2: Speaker 2",NP23,NA,na,na,English,5,,NaN,Piano,1,left,57,27,45,48,33,26,6,4,15,3
+EC253,9,BURSC,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 2: Speaker 2",NP23,NA,na,na,English,5,,NaN,Piano,1,left,57,27,45,48,33,26,6,4,15,3
+EC253,10,BURSC,6,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 2: Speaker 2",NP23,NA,na,na,English,5,,NaN,Piano,1,left,57,27,45,48,33,26,6,4,15,3
+EC260,37,BURSC,1,Good,,na,na,Right,No,Spanish,5,English,4,,,left,32,75,42,27,3,33,11,11,15,7
+EC260,38,BURSC,2,Good,,na,na,Right,No,Spanish,5,English,4,,,left,32,75,42,27,3,33,11,11,15,7
+EC260,41,BURSC,3,Good,,na,na,Right,No,Spanish,5,English,4,,,left,32,75,42,27,3,33,11,11,15,7
+EC260,42,BURSC,4,Good,,na,na,Right,No,Spanish,5,English,4,,,left,32,75,42,27,3,33,11,11,15,7
+EC260,43,BURSC,5,Good,,na,na,Right,No,Spanish,5,English,4,,,left,32,75,42,27,3,33,11,11,15,7
+EC260,54,BURSC,6,Good,,na,na,Right,No,Spanish,5,English,4,,,left,32,75,42,27,3,33,11,11,15,7
+EC267,12,BURSC,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,None,English,5,Spanish,5,Trumpet,"3 years, 3rd to 5th grade",left,5,2,41,59,28,33,28,23,19,2
+EC267,13,BURSC,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,None,English,5,Spanish,5,Trumpet,"3 years, 3rd to 5th grade",left,5,2,41,59,28,33,28,23,19,2
+EC267,26,BURSC,3,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,Right,None,English,5,Spanish,5,Trumpet,"3 years, 3rd to 5th grade",left,5,2,41,59,28,33,28,23,19,2
+EC267,35,BURSC,4,Good,,na,na,Right,None,English,5,Spanish,5,Trumpet,"3 years, 3rd to 5th grade",left,5,2,41,59,28,33,28,23,19,2
+EC267,47,BURSC,5,Good,,na,na,Right,None,English,5,Spanish,5,Trumpet,"3 years, 3rd to 5th grade",left,5,2,41,59,28,33,28,23,19,2
+EC267,75,BURSC,6,Bad,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,Right,None,English,5,Spanish,5,Trumpet,"3 years, 3rd to 5th grade",left,5,2,41,59,28,33,28,23,19,2
+EC267,76,BURSC,6,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,Right,None,English,5,Spanish,5,Trumpet,"3 years, 3rd to 5th grade",left,5,2,41,59,28,33,28,23,19,2
+EC268,1,BURSC,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP35,A424,Right,,,,,,,,right,32,79,40,38,59,3,0,0,0,3
+EC268,2,BURSC,2,Good,,NP35,A424,Right,,,,,,,,right,32,79,40,38,59,3,0,0,0,3
+EC268,4,BURSC,3,Good,,NP35,A424,Right,,,,,,,,right,32,79,40,38,59,3,0,0,0,3
+EC268,5,BURSC,4,Good,,NP35,A424,Right,,,,,,,,right,32,79,40,38,59,3,0,0,0,3
+EC268,11,BURSC,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP35,A424,Right,,,,,,,,right,32,79,40,38,59,3,0,0,0,3
+EC268,12,BURSC,6,Good,,NP35,A424,Right,,,,,,,,right,32,79,40,38,59,3,0,0,0,3
+EC270,6,BURSC,1,Good,,na,na,Right,None,English,5,,,Drums,20 years,left,61,46,4,3,17,0,0,0,15,7
+EC270,7,BURSC,2,Good,,na,na,Right,None,English,5,,,Drums,20 years,left,61,46,4,3,17,0,0,0,15,7
+EC270,13,BURSC,3,Good,,na,na,Right,None,English,5,,,Drums,20 years,left,61,46,4,3,17,0,0,0,15,7
+EC270,15,BURSC,4,Good,,na,na,Right,None,English,5,,,Drums,20 years,left,61,46,4,3,17,0,0,0,15,7
+EC270,23,BURSC,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,Right,None,English,5,,,Drums,20 years,left,61,46,4,3,17,0,0,0,15,7
+EC270,24,BURSC,6,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,Right,None,English,5,,,Drums,20 years,left,61,46,4,3,17,0,0,0,15,7
+EC271,1,BURSC,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,Right,no,English,5,,,no,,left,67,22,50,32,10,30,15,19,21,7
+EC271,3,BURSC,2,Bad,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,no,English,5,,,no,,left,67,22,50,32,10,30,15,19,21,7
+EC275,2,BURSC,1,Good,unknown,na,na,Ambidextrous,no,English,5,,,saxophone,10 years,right,52,58,46,30,32,6,10,3,0,3
+EC275,3,BURSC,2,Good,unknown,na,na,Ambidextrous,no,English,5,,,saxophone,10 years,right,52,58,46,30,32,6,10,3,0,3
+EC275,5,BURSC,3,Good,unknown,na,na,Ambidextrous,no,English,5,,,saxophone,10 years,right,52,58,46,30,32,6,10,3,0,3
+EC275,6,BURSC,4,Good,unknown,na,na,Ambidextrous,no,English,5,,,saxophone,10 years,right,52,58,46,30,32,6,10,3,0,3
+EC275,7,BURSC,5,Good,unknown,na,na,Ambidextrous,no,English,5,,,saxophone,10 years,right,52,58,46,30,32,6,10,3,0,3
+EC275,10,BURSC,6,Good,unknown,na,na,Ambidextrous,no,English,5,,,saxophone,10 years,right,52,58,46,30,32,6,10,3,0,3
+EC278,13,BURSC,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,na,na,english,5,spanish,2,DJ,NaN,left,58,32,4,5,31,1,0,0,6,1
+EC278,14,BURSC,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,na,na,english,5,spanish,2,DJ,NaN,left,58,32,4,5,31,1,0,0,6,1
+EC278,15,BURSC,3,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,na,na,english,5,spanish,2,DJ,NaN,left,58,32,4,5,31,1,0,0,6,1
+EC278,16,BURSC,4,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,na,na,english,5,spanish,2,DJ,NaN,left,58,32,4,5,31,1,0,0,6,1
+EC278,17,BURSC,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,na,na,english,5,spanish,2,DJ,NaN,left,58,32,4,5,31,1,0,0,6,1
+EC278,18,BURSC,6,Bad,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,na,na,english,5,spanish,2,DJ,NaN,left,58,32,4,5,31,1,0,0,6,1
+EC278,19,BURSC,6,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,na,na,english,5,spanish,2,DJ,NaN,left,58,32,4,5,31,1,0,0,6,1
+EC279,1,BURSC,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 3: Photodiode",na,na,Right,None,English,,Spanish,2,None,,right,25,75,5,7,17,2,2,0,0,8
+EC279,2,BURSC,2,Good,,na,na,Right,None,English,,Spanish,2,None,,right,25,75,5,7,17,2,2,0,0,8
+EC279,11,BURSC,3,Good,,na,na,Right,None,English,,Spanish,2,None,,right,25,75,5,7,17,2,2,0,0,8
+EC279,13,BURSC,4,Good,,na,na,Right,None,English,,Spanish,2,None,,right,25,75,5,7,17,2,2,0,0,8
+EC279,15,BURSC,5,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,Right,None,English,,Spanish,2,None,,right,25,75,5,7,17,2,2,0,0,8
+EC279,16,BURSC,6,Good,,na,na,Right,None,English,,Spanish,2,None,,right,25,75,5,7,17,2,2,0,0,8
+EC290,3,BURSC,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,no,English,5,,,,,left,28,50,35,43,63,0,5,0,9,1
+EC290,13,BURSC,2,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,no,English,5,,,,,left,28,50,35,43,63,0,5,0,9,1
+EC290,14,BURSC,3,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,no,English,5,,,,,left,28,50,35,43,63,0,5,0,9,1
+EC290,21,BURSC,4,Good,"ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,no,English,5,,,,,left,28,50,35,43,63,0,5,0,9,1
+EC290,22,BURSC,5,Good,"ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,no,English,5,,,,,left,28,50,35,43,63,0,5,0,9,1
+EC290,23,BURSC,6,Good,"ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,no,English,5,,,,,left,28,50,35,43,63,0,5,0,9,1
+EC70,1,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,57,31,41,48,26,25,12,2,6,0
+EC70,2,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,57,31,41,48,26,25,12,2,6,0
+EC70,3,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,57,31,41,48,26,25,12,2,6,0
+EC70,17,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,57,31,41,48,26,25,12,2,6,0
+EC71,13,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,11,5,12,7,7,7,9,1,10,2
+EC80,17,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,0,0,0,0,0,0,0,0,0,1
+EC82,13,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC82,33,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC82,36,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC82,56,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC82,66,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC82,99,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC82,100,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC84,11,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,22,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,38,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,60,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,61,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,67,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC87,16,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,3,2,6,3,2,2,2,0,0,1
+EC122,1,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,60,54,56,36,14,8,8,21,14,8
+EC122,2,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,60,54,56,36,14,8,8,21,14,8
+EC156,8,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,18,55,52,12,26,22,4,18,4
+EC156,9,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,18,55,52,12,26,22,4,18,4
+EC156,22,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,18,55,52,12,26,22,4,18,4
+EC156,25,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,18,55,52,12,26,22,4,18,4
+EC156,27,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,18,55,52,12,26,22,4,18,4
+EC156,32,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,18,55,52,12,26,22,4,18,4
+EC156,37,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,18,55,52,12,26,22,4,18,4
+EC156,38,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,18,55,52,12,26,22,4,18,4
+EC156,46,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,18,55,52,12,26,22,4,18,4
+EC156,55,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,18,55,52,12,26,22,4,18,4
+EC156,56,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,18,55,52,12,26,22,4,18,4
+EC156,67,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,18,55,52,12,26,22,4,18,4
+EC159,3,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,66,25,50,25,4,23,32,21,0,3
+EC159,17,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,66,25,50,25,4,23,32,21,0,3
+EC166,11,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,43,38,28,10,39,1,27,0,5
+EC166,14,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,43,38,28,10,39,1,27,0,5
+EC166,28,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,43,38,28,10,39,1,27,0,5
+EC166,29,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,43,38,28,10,39,1,27,0,5
+EC166,34,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,43,38,28,10,39,1,27,0,5
+EC166,48,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,67,43,38,28,10,39,1,27,0,5
+EC168,7,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,53,52,52,42,23,20,22,9,14,1
+EC168,9,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,53,52,52,42,23,20,22,9,14,1
+EC168,10,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,53,52,52,42,23,20,22,9,14,1
+EC168,16,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,53,52,52,42,23,20,22,9,14,1
+EC168,20,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,53,52,52,42,23,20,22,9,14,1
+EC168,28,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,53,52,52,42,23,20,22,9,14,1
+EC168,37,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,53,52,52,42,23,20,22,9,14,1
+EC168,42,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,53,52,52,42,23,20,22,9,14,1
+EC168,45,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,53,52,52,42,23,20,22,9,14,1
+EC168,57,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,53,52,52,42,23,20,22,9,14,1
+EC168,69,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,53,52,52,42,23,20,22,9,14,1
+EC168,73,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,53,52,52,42,23,20,22,9,14,1
+EC169,4,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,72,84,48,0,11,0,7,10
+EC169,10,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,72,84,48,0,11,0,7,10
+EC169,16,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,72,84,48,0,11,0,7,10
+EC169,19,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,72,84,48,0,11,0,7,10
+EC169,23,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,72,84,48,0,11,0,7,10
+EC169,32,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,72,84,48,0,11,0,7,10
+EC169,34,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,72,84,48,0,11,0,7,10
+EC169,38,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,72,84,48,0,11,0,7,10
+EC169,39,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,0,0,72,84,48,0,11,0,7,10
+EC173,32,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC173,34,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC173,36,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC173,41,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC173,42,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC173,43,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC173,46,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC173,53,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,82,21,49,49,19,20,3,10,0,4
+EC183,5,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,11,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,16,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,25,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,31,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,34,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,37,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,47,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,105,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,106,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,134,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,141,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,166,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,167,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC183,168,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,74,55,31,21,21,23,3,26,17,3
+EC186,44,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC186,46,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC186,48,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC186,49,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC186,60,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC186,67,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC186,69,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC186,71,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC186,74,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC186,77,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,33,48,30,7,25,11,3,20,3
+EC189,23,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,11,1,55,94,55,15,0,0,0,0
+EC189,47,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,11,1,55,94,55,15,0,0,0,0
+EC189,50,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,11,1,55,94,55,15,0,0,0,0
+EC189,51,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,11,1,55,94,55,15,0,0,0,0
+EC189,53,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,11,1,55,94,55,15,0,0,0,0
+EC197,5,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,7,0,55,56,9,20,66,18,3,7
+EC197,7,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,7,0,55,56,9,20,66,18,3,7
+EC197,17,interview,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,7,0,55,56,9,20,66,18,3,7
+EC219,51,interview,NaN,Good,"ANIN 1: Mic, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,nan,nan,na,na,na,na,na,na,left,72,66,62,64,49,9,10,1,12,9
+EC219,52,interview,NaN,Good,"ANIN 1: Mic, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,nan,nan,na,na,na,na,na,na,left,72,66,62,64,49,9,10,1,12,9
+EC222,6,interview,NaN,Good,,na,na,nan,nan,na,na,na,na,na,na,left,68,84,2,2,28,4,0,0,17,5
+EC222,52,interview,NaN,Good,,na,na,nan,nan,na,na,na,na,na,na,left,68,84,2,2,28,4,0,0,17,5
+EC222,54,interview,NaN,Good,,na,na,nan,nan,na,na,na,na,na,na,left,68,84,2,2,28,4,0,0,17,5
+EC253,23,interview,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP23,NA,na,na,English,5,,NaN,Piano,1,left,57,27,45,48,33,26,6,4,15,3
+EC253,41,interview,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP23,NA,na,na,English,5,,NaN,Piano,1,left,57,27,45,48,33,26,6,4,15,3
+EC253,60,interview,NaN,Good,,NP23,NA,na,na,English,5,,NaN,Piano,1,left,57,27,45,48,33,26,6,4,15,3
+EC253,71,interview,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP23,NA,na,na,English,5,,NaN,Piano,1,left,57,27,45,48,33,26,6,4,15,3
+EC254,17,interview,NaN,Good,ANIN 1: Microphone,NP22,NA,Right,None,,,,,clarinet,1yr,left,52,68,27,25,19,29,9,12,17,7
+EC254,18,interview,NaN,Good,ANIN 1: Microphone,NP22,NA,Right,None,,,,,clarinet,1yr,left,52,68,27,25,19,29,9,12,17,7
+EC258,30,interview,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",na,na,Right,,Dari,5,,,,,left,31,76,30,37,59,0,1,0,18,18
+EC260,11,interview,NaN,Good,,na,na,Right,No,Spanish,5,English,4,,,left,32,75,42,27,3,33,11,11,15,7
+EC260,17,interview,NaN,Good,,na,na,Right,No,Spanish,5,English,4,,,left,32,75,42,27,3,33,11,11,15,7
+EC266,23,interview,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP34,NA,Right,No,Spanish,5,Valenciano,5,No,NaN,right,50,58,40,43,41,1,1,0,0,2
+EC266,24,interview,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP34,NA,Right,No,Spanish,5,Valenciano,5,No,NaN,right,50,58,40,43,41,1,1,0,0,2
+EC266,28,interview,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP34,NA,Right,No,Spanish,5,Valenciano,5,No,NaN,right,50,58,40,43,41,1,1,0,0,2
+EC266,30,interview,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP34,NA,Right,No,Spanish,5,Valenciano,5,No,NaN,right,50,58,40,43,41,1,1,0,0,2
+EC267,41,interview,NaN,Good,,na,na,Right,None,English,5,Spanish,5,Trumpet,"3 years, 3rd to 5th grade",left,5,2,41,59,28,33,28,23,19,2
+EC267,42,interview,NaN,Good,,na,na,Right,None,English,5,Spanish,5,Trumpet,"3 years, 3rd to 5th grade",left,5,2,41,59,28,33,28,23,19,2
+EC267,52,interview,NaN,Good,,na,na,Right,None,English,5,Spanish,5,Trumpet,"3 years, 3rd to 5th grade",left,5,2,41,59,28,33,28,23,19,2
+EC267,53,interview,NaN,Good,,na,na,Right,None,English,5,Spanish,5,Trumpet,"3 years, 3rd to 5th grade",left,5,2,41,59,28,33,28,23,19,2
+EC267,56,interview,NaN,Good,,na,na,Right,None,English,5,Spanish,5,Trumpet,"3 years, 3rd to 5th grade",left,5,2,41,59,28,33,28,23,19,2
+EC267,57,interview,NaN,Good,,na,na,Right,None,English,5,Spanish,5,Trumpet,"3 years, 3rd to 5th grade",left,5,2,41,59,28,33,28,23,19,2
+EC267,58,interview,NaN,Good,,na,na,Right,None,English,5,Spanish,5,Trumpet,"3 years, 3rd to 5th grade",left,5,2,41,59,28,33,28,23,19,2
+EC267,59,interview,NaN,Good,,na,na,Right,None,English,5,Spanish,5,Trumpet,"3 years, 3rd to 5th grade",left,5,2,41,59,28,33,28,23,19,2
+EC268,9,interview,NaN,?,"ANIN 1: Microphone, ANIN 2: Microphone",NP35,A424,Right,,,,,,,,right,32,79,40,38,59,3,0,0,0,3
+EC268,10,interview,NaN,Good,,NP35,A424,Right,,,,,,,,right,32,79,40,38,59,3,0,0,0,3
+EC270,21,interview,NaN,Good,,na,na,Right,None,English,5,,,Drums,20 years,left,61,46,4,3,17,0,0,0,15,7
+EC270,25,interview,NaN,Good,"ANIN 1: Microphone, ANIN 2: Microphone",na,na,Right,None,English,5,,,Drums,20 years,left,61,46,4,3,17,0,0,0,15,7
+EC270,26,interview,NaN,Good,"ANIN 1: Microphone, ANIN 2: Microphone",na,na,Right,None,English,5,,,Drums,20 years,left,61,46,4,3,17,0,0,0,15,7
+EC271,4,interview,1,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",na,na,Right,no,English,5,,,no,,left,67,22,50,32,10,30,15,19,21,7
+EC275,15,interview,NaN,Bad,unknown,na,na,Ambidextrous,no,English,5,,,saxophone,10 years,right,52,58,46,30,32,6,10,3,0,3
+EC275,16,interview,NaN,Bad,unknown,na,na,Ambidextrous,no,English,5,,,saxophone,10 years,right,52,58,46,30,32,6,10,3,0,3
+EC275,17,interview,NaN,Good,unknown,na,na,Ambidextrous,no,English,5,,,saxophone,10 years,right,52,58,46,30,32,6,10,3,0,3
+EC275,21,interview,NaN,Good,unknown,na,na,Ambidextrous,no,English,5,,,saxophone,10 years,right,52,58,46,30,32,6,10,3,0,3
+EC275,24,interview,NaN,Good,unknown,na,na,Ambidextrous,no,English,5,,,saxophone,10 years,right,52,58,46,30,32,6,10,3,0,3
+EC282,10,interview,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP48,A436,Right,No,English,5,Spanish,3,Clarinet,4,left,48,67,6,16,13,0,0,0,17,2
+EC282,11,interview,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP48,A436,Right,No,English,5,Spanish,3,Clarinet,4,left,48,67,6,16,13,0,0,0,17,2
+EC282,12,interview,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP48,A436,Right,No,English,5,Spanish,3,Clarinet,4,left,48,67,6,16,13,0,0,0,17,2
+EC282,20,interview,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2, ANIN 4: Photodiode",NP48,A436,Right,No,English,5,Spanish,3,Clarinet,4,left,48,67,6,16,13,0,0,0,17,2
+EC287,27,interview,NaN,Good,"ANIN 1: Microphone, ANIN 2: Microphone",NP53,A441,Left,No,English,5,,,No,,left,59,57,3,3,7,0,0,0,16,7
+EC290,35,interview,NaN,Good,ANIN 1: Microphone,na,na,Right,no,English,5,,,,,left,28,50,35,43,63,0,5,0,9,1
+EC290,36,interview,NaN,Good,ANIN 1: Microphone,na,na,Right,no,English,5,,,,,left,28,50,35,43,63,0,5,0,9,1
+EC295,5,interview,NaN,Good,ANIN 1: Microphone,na,na,na,na,English,,,,,,right,0,0,61,39,13,0,0,0,0,2
+EC295,6,interview,NaN,Good,ANIN 1: Microphone,na,na,na,na,English,,,,,,right,0,0,61,39,13,0,0,0,0,2
+EC302,15,interview,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP72,A459,Right,,,,,,,,left,52,31,43,45,11,19,30,16,13,5
+EC302,16,interview,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP72,A459,Right,,,,,,,,left,52,31,43,45,11,19,30,16,13,5
+EC302,20,interview,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 2",NP72,A459,Right,,,,,,,,left,52,31,43,45,11,19,30,16,13,5
+EC302,21,interview,NaN,Good,ANIN 1: Speaker 1,NP72,A459,Right,,,,,,,,left,52,31,43,45,11,19,30,16,13,5
+EC307,13,interview,2,Good,ANIN 1: Microphone,NP79,,Right,,,,,,,,left,49,58,6,8,8,5,0,0,9,2
+EC309,5,interview,NaN,Good,unknown,na,na,Right,,,,,,,,left,63,38,13,8,4,1,0,0,14,4
+EC309,6,interview,NaN,bad,unknown,na,na,Right,,,,,,,,left,63,38,13,8,4,1,0,0,14,4
+EC309,8,interview,NaN,bad,unknown,na,na,Right,,,,,,,,left,63,38,13,8,4,1,0,0,14,4
+EC309,11,interview,NaN,Good,unknown,na,na,Right,,,,,,,,left,63,38,13,8,4,1,0,0,14,4
+EC309,13,interview,NaN,Good,unknown,na,na,Right,,,,,,,,left,63,38,13,8,4,1,0,0,14,4
+EC309,17,interview,NaN,Good,unknown,na,na,Right,,,,,,,,left,63,38,13,8,4,1,0,0,14,4
+EC309,18,interview,NaN,Good,unknown,na,na,Right,,,,,,,,left,63,38,13,8,4,1,0,0,14,4
+EC309,20,interview,NaN,Good,unknown,na,na,Right,,,,,,,,left,63,38,13,8,4,1,0,0,14,4
+EC33,50,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,44,70,42,37,38,17,6,0,0,0
+EC36,70,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,43,46,27,38,10,9,0,0,0
+EC37,66,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,59,55,39,42,29,29,0,0,0,0
+EC52,3,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,46,17,38,52,77,0,0,0,0,0
+EC52,5,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,46,17,38,52,77,0,0,0,0,0
+EC55,58,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,75,39,38,38,33,23,3,0,0,0
+EC56,3,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,14,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,36,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC56,48,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,28,0,80,69,65,0,0,0,0,0
+EC58,10,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC58,12,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC58,14,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC58,18,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC58,20,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC58,21,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC58,23,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC58,25,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC58,30,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC58,37,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC58,40,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC58,50,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC58,53,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC58,57,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,62,35,38,50,15,30,10,4,0,0
+EC60,25,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,8,45,43,22,16,25,19,0,0
+EC60,34,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,8,45,43,22,16,25,19,0,0
+EC60,36,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,8,45,43,22,16,25,19,0,0
+EC60,39,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,69,8,45,43,22,16,25,19,0,0
+EC61,13,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,18,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,41,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,50,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC61,60,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,50,45,35,38,23,17,18,18,0,0
+EC69,27,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,38,62,53,52,23,18,5,1,1,0
+EC69,34,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,38,62,53,52,23,18,5,1,1,0
+EC70,3,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,57,31,41,48,26,25,12,2,6,0
+EC70,10,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,57,31,41,48,26,25,12,2,6,0
+EC70,15,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,57,31,41,48,26,25,12,2,6,0
+EC70,24,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,57,31,41,48,26,25,12,2,6,0
+EC70,29,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,57,31,41,48,26,25,12,2,6,0
+EC70,35,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,57,31,41,48,26,25,12,2,6,0
+EC70,37,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,57,31,41,48,26,25,12,2,6,0
+EC74,12,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,12,12,9,7,20,6,0,2,2,0
+EC74,26,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,12,12,9,7,20,6,0,2,2,0
+EC77,45,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,65,27,41,33,13,17,24,32,0,1
+EC77,49,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,65,27,41,33,13,17,24,32,0,1
+EC77,55,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,65,27,41,33,13,17,24,32,0,1
+EC79,1,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,48,42,37,25,15,11,10,0,3
+EC79,8,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,48,42,37,25,15,11,10,0,3
+EC79,20,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,48,42,37,25,15,11,10,0,3
+EC79,22,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,48,42,37,25,15,11,10,0,3
+EC79,24,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,48,42,37,25,15,11,10,0,3
+EC79,28,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,48,42,37,25,15,11,10,0,3
+EC79,45,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,48,42,37,25,15,11,10,0,3
+EC82,7,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC82,31,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC82,80,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC82,102,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC82,105,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,61,25,53,54,49,14,21,2,2,2
+EC84,29,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,56,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC84,57,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,47,8,73,56,77,10,4,6,0,1
+EC86,20,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,46,54,33,27,20,6,3,8,2
+EC86,37,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,63,46,54,33,27,20,6,3,8,2
+EC87,17,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,3,2,6,3,2,2,2,0,0,1
+EC87,26,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,3,2,6,3,2,2,2,0,0,1
+EC96,9,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,68,7,54,54,39,17,11,2,0,1
+EC108,4,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,47,65,26,41,21,34,25,19,14,3
+EC118,22,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC118,25,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC118,43,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC118,60,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC118,72,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,65,22,44,42,42,25,14,3,15,1
+EC121,26,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,0,0,65,51,39,19,30,7,0,0
+EC122,7,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,60,54,56,36,14,8,8,21,14,8
+EC122,16,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,60,54,56,36,14,8,8,21,14,8
+EC122,22,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,60,54,56,36,14,8,8,21,14,8
+EC122,35,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,60,54,56,36,14,8,8,21,14,8
+EC122,37,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,60,54,56,36,14,8,8,21,14,8
+EC122,44,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,60,54,56,36,14,8,8,21,14,8
+EC122,47,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,60,54,56,36,14,8,8,21,14,8
+EC122,55,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,60,54,56,36,14,8,8,21,14,8
+EC122,57,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,60,54,56,36,14,8,8,21,14,8
+EC122,62,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,60,54,56,36,14,8,8,21,14,8
+EC122,67,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,60,54,56,36,14,8,8,21,14,8
+EC122,68,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,60,54,56,36,14,8,8,21,14,8
+EC122,71,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,60,54,56,36,14,8,8,21,14,8
+EC122,76,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,60,54,56,36,14,8,8,21,14,8
+EC123,20,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,66,23,48,57,37,11,1,1,0,0
+EC123,21,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,66,23,48,57,37,11,1,1,0,0
+EC123,55,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,66,23,48,57,37,11,1,1,0,0
+EC125,26,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,72,17,42,43,47,19,17,2,1,6
+EC125,27,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,72,17,42,43,47,19,17,2,1,6
+EC125,32,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,72,17,42,43,47,19,17,2,1,6
+EC125,37,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,72,17,42,43,47,19,17,2,1,6
+EC125,41,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,72,17,42,43,47,19,17,2,1,6
+EC125,1045,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,72,17,42,43,47,19,17,2,1,6
+EC128,10,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,41,107,38,42,12,17,0,0,5
+EC128,16,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,41,107,38,42,12,17,0,0,5
+EC128,33,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,56,41,107,38,42,12,17,0,0,5
+EC137,43,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,45,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,56,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,92,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,93,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,116,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,120,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,121,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,127,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC137,128,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,54,61,48,25,8,10,29,23,1,3
+EC141,13,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,61,45,53,48,30,17,8,0,0,1
+EC148,7,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,71,37,43,42,14,14,13,25,1,6
+EC153,21,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,73,38,38,32,17,12,19,14,0,3
+EC157,23,conversation,NaN,unknown,unknown,NP26,A414,nan,nan,na,na,na,na,na,na,left,79,62,30,48,23,28,9,2,9,2
+EC163,15,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,right,36,59,13,18,45,0,0,0,0,5
+EC174,5,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,91,39,14,86,17,0,10,9,2
+EC174,6,conversation,NaN,unknown,unknown,na,na,nan,nan,na,na,na,na,na,na,left,73,91,39,14,86,17,0,10,9,2
+EC267,3,conversation,NaN,Good,"ANIN 1: Microphone, ANIN 2: Speaker 1, ANIN 3: Speaker 1, ANIN 4: SyncPulse",na,na,Right,None,English,5,Spanish,5,Trumpet,"3 years, 3rd to 5th grade",left,5,2,41,59,28,33,28,23,19,2
+EC309,19,conversation,NaN,Good,unknown,na,na,Right,,,,,,,,left,63,38,13,8,4,1,0,0,14,4
+EC309,25,conversation,NaN,Good,unknown,na,na,Right,,,,,,,,left,63,38,13,8,4,1,0,0,14,4
+EC309,26,conversation,NaN,Good,unknown,na,na,Right,,,,,,,,left,63,38,13,8,4,1,0,0,14,4
+EC309,44,conversation,NaN,Good,unknown,na,na,Right,,,,,,,,left,63,38,13,8,4,1,0,0,14,4
