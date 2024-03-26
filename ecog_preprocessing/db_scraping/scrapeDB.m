@@ -6,6 +6,9 @@ dbLoc="/Users/dlevy/Dropbox (UCSF Department of Neurological Surgery)/ChangLab/G
 % local location of Neuropixels Management spreadsheet
 npLoc='Neuropixels management - Subjects.csv';
 
+% local location of /data_store2/imaging/ directory (for me I mount this via Mountain Duck)
+elecLoc='/Users/dlevy/Library/Group Containers/G69SCX94XU.duck/Library/Application Support/duck/Volumes/imaging';
+
 %% scraping code
 
 warning('OFF', 'MATLAB:table:ModifiedAndSavedVarnames')
@@ -245,7 +248,6 @@ for t=1:length(taskLbls)
 end
 
 %% write out csv
-elecLoc='/Users/dlevy/Library/Group Containers/G69SCX94XU.duck/Library/Application Support/duck/Volumes/imaging';
 
 allPossLocs=[];
 for s=1:length(ecIDs)
