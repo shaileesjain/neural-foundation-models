@@ -1,28 +1,18 @@
-%% user input: type in filepaths
-
-% local location of General Patient Info folder on Dropbox
-dbLoc="/Users/dlevy/Dropbox (UCSF Department of Neurological Surgery)/ChangLab/General Patient Info";
-
-% local location of Neuropixels Management spreadsheet
-npLoc='Neuropixels management - Subjects.csv';
-
-%% scraping code
-
+dbLoc='/Users/dlevy/Dropbox (UCSF Department of Neurological Surgery)/ChangLab/General Patient Info';
 warning('OFF', 'MATLAB:table:ModifiedAndSavedVarnames')
 
 maybeNoFile=[];
 maybeWeirdTaskInfo=[]; 
-maybeWeirdQuestionInfo=[]; 
 
-cmd=sprintf("cd '%s'; ls EC*/*rial* > ~/Desktop/notesNames.txt",dbLoc);
-system(cmd);
-notesFNames=readtable('~/Desktop/notesNames.txt','ReadVariableNames',false); 
+notesFNames=readtable('notesNames.txt','ReadVariableNames',false); % result of ls EC*/*rial* > notesNames.txt in Dropbox
+
 notesSfxs=cellfun(@(x) split(x,{'_','.',' '}),notesFNames.Var2,'UniformOutput',false);
 
 ecTypes=[];
 notesTypes=[];
 fTypes=[];
 for s=1:length(notesSfxs)   
+
 
     thisName=notesSfxs{s};
     ecLbl=thisName(contains(thisName,'ec','IgnoreCase',true));
@@ -50,19 +40,14 @@ interviewTypes=cell(1,1);
 
 ecIDs=[cellstr(strcat('EC',string(1:309)))];
 
-npTbl=readtable(npLoc); % downloaded from Google sheets; cannot read directly due to restricted sheet
-
 taskLbls={'TIMIT','MOCHA','BURSC','interview','conversation'};
 
-taskInfo=cell(size(ecIDs,2),12,length(taskLbls));
+taskInfo=cell(size(ecIDs,2),5,length(taskLbls));
 
 allPossTaskNames=[];
 allHtkPaths=cell(length(ecIDs),length(taskLbls));
 allAninInfo=[];
 for e=1:length(ecIDs)
-
-    npID=npTbl.Var1(strcmp(npTbl.EC,ecIDs{e}));
-    aID=npTbl.A(strcmp(npTbl.EC,ecIDs{e}));
 
     for n=1:size(notesTypes,1)
         for f=1:(size(fTypes,1))
@@ -89,28 +74,13 @@ for e=1:length(ecIDs)
             end
 
             try
-                qTbl=readtable(successName,'Sheet','Questionnaire',Range="A1:M60");
-                hand=qTbl.Var2(strcmp(qTbl.Var1,'Handedness'));
-                imped=qTbl.Var2(strcmp(qTbl.Var1,'Impediments'));
-                music={[qTbl.Var2(strcmp(qTbl.Var1,'Instrument / Singing 1')) qTbl.Var3(strcmp(qTbl.Var1,'Instrument / Singing 1'))]};
-                native={[qTbl.Var2(strcmp(qTbl.Var1,'Native')) qTbl.Var3(strcmp(qTbl.Var1,'Native')) qTbl.Var4(strcmp(qTbl.Var1,'Native')) qTbl.Var5(strcmp(qTbl.Var1,'Native'))]};
-                secondLang={[qTbl.Var2(strcmp(qTbl.Var1,'Second')) qTbl.Var3(strcmp(qTbl.Var1,'Second')) qTbl.Var4(strcmp(qTbl.Var1,'Second')) qTbl.Var5(strcmp(qTbl.Var1,'Second'))]};
-            catch
-                maybeWeirdQuestionInfo=[maybeWeirdQuestionInfo; ecIDs(e)];
-                hand={'nan'};
-                imped={'nan'};
-                music={'nan'};
-                native={'nan'};
-                secondLang={'nan'};
-            end
-
-            try
                 if ~isnan(tbl.Task{1})
                     allPossTaskNames=[allPossTaskNames; tbl.Task];
                     allAninInfo=[allAninInfo; tbl.Inputs];
                 end
             catch
             end
+
 
             for t=1:length(taskLbls)
                 switch t
@@ -133,8 +103,6 @@ for e=1:length(ecIDs)
                 try
                     if sum(contains(tbl.Task,taskLbls{t},'IgnoreCase',true))>0 
                         thisEC=ecIDs{e};
-                        thisNP=npID;
-                        thisA=aID;
 
                         allTaskCandidates=contains(tbl.Task,taskLbls{t},'IgnoreCase',true);
                         
@@ -159,13 +127,6 @@ for e=1:length(ecIDs)
                         theseBlocks=tbl.Block(allTasks);
                         taskInfo{e,1,t}=thisEC;
                         taskInfo{e,2,t}=theseBlocks;
-                        taskInfo{e,6,t}=thisNP;
-                        taskInfo{e,7,t}=thisA;
-                        taskInfo{e,8,t}=hand;
-                        taskInfo{e,9,t}=imped;
-                        taskInfo{e,10,t}=music;
-                        taskInfo{e,11,t}=native;
-                        taskInfo{e,12,t}=secondLang;
                         try
                             taskInfo{e,4,t}=tbl.Valid(allTasks);
                         catch
@@ -176,18 +137,13 @@ for e=1:length(ecIDs)
                         catch
                             taskInfo{e,5,t}=repmat('unknown',size(theseBlocks));
                         end
-                        %htkPaths=cellstr(strcat(strcat(sprintf('/data_store1/prcsd_data/human/%s/%s_B',thisEC,thisEC),string(theseBlocks)),'/RawHTK'));
-                        %allHtkPaths(e,t)={htkPaths};
+                        htkPaths=cellstr(strcat(strcat(sprintf('/data_store1/prcsd_data/human/%s/%s_B',thisEC,thisEC),string(theseBlocks)),'/RawHTK'));
+                        allHtkPaths(e,t)={htkPaths};
                         try
-                            theseTypes=tbl.TaskType(allTasks);
-                            if iscell(theseTypes)
-                                theseTypes=str2double(theseTypes);
-                            elseif all(isnan(theseTypes))
-                                theseTypes=tbl.TaskSubType(allTasks);
-                            end
+                            theseTypes=tbl.TaskType(contains(tbl.Task,taskLbls{t},'IgnoreCase',true));
                         catch
                             try
-                                splitTypes=split(strrep(tbl.Task(allTasks),' ',''),taskLbls{t});
+                                splitTypes=split(strrep(tbl.Task(contains(tbl.Task,taskLbls{t},'IgnoreCase',true)),' ',''),taskLbls{t});
                                 theseTypes=str2double(splitTypes(:,2));
                             catch
                                 theseTypes='checkManually';
@@ -209,7 +165,6 @@ unique(allPossTaskNames)
 
 unique(maybeNoFile) % people for whom it seems like we can't find a trial notes file
 unique(maybeWeirdTaskInfo) % people for whom it seems like we can't get task info for some reason
-unique(maybeWeirdQuestionInfo) % people for whom it seems like we can't get questionairre info for some reason
 
 %a(cellfun(@isempty,a))={'hi'};
 %a(ismember(a,unique(maybeNoFile)'))
@@ -271,76 +226,14 @@ for t=1:length(taskLbls)
 
     thisTask=taskLbls(t);
     taskSubs=taskInfo(~cellfun(@isempty,taskInfo(:,1,t)),1,t);
-    taskNPSubs=taskInfo(~cellfun(@isempty,taskInfo(:,1,t)),6,t);
-    taskASubs=taskInfo(~cellfun(@isempty,taskInfo(:,1,t)),7,t);
-    taskHand=taskInfo(~cellfun(@isempty,taskInfo(:,1,t)),8,t);
-    taskImped=taskInfo(~cellfun(@isempty,taskInfo(:,1,t)),9,t);
-    taskMusic=taskInfo(~cellfun(@isempty,taskInfo(:,1,t)),10,t);
-    taskNative=taskInfo(~cellfun(@isempty,taskInfo(:,1,t)),11,t);
-    taskSecond=taskInfo(~cellfun(@isempty,taskInfo(:,1,t)),12,t);
     taskBlocks=taskInfo(~cellfun(@isempty,taskInfo(:,1,t)),2,t);
     taskTypes=taskInfo(~cellfun(@isempty,taskInfo(:,1,t)),3,t); 
     taskValidity=taskInfo(~cellfun(@isempty,taskInfo(:,1,t)),4,t); 
     taskInputs=taskInfo(~cellfun(@isempty,taskInfo(:,1,t)),5,t);
 
     for s=1:length(taskSubs)
-        dataStruct=struct;
-        dataStruct.thisSub=taskSubs(s);
-        dataStruct.thisNP=taskNPSubs{s};
-        dataStruct.thisA=taskASubs{s};
-        dataStruct.thisHand=taskHand{s};
-        dataStruct.thisImped=taskImped{s};
-        dataStruct.thisNative=taskNative{s};
-        dataStruct.thisSecond=taskSecond{s};
-        dataStruct.thisMusic=taskMusic{s};
-        fn=fieldnames(dataStruct);
-        for i=1:numel(fn)
-            switch fn{i}
-                case 'thisNative'
-                    try
-                        dataStruct.thisNative_lang=dataStruct.thisNative{1}(1);
-                        dataStruct.thisNative_prof=dataStruct.thisNative{1}(2);
-                        dataStruct.thisNative_freq=dataStruct.thisNative{1}(3);
-                        dataStruct.thisNative_age=dataStruct.thisNative{1}(4);
-                    catch
-                        dataStruct.thisNative_lang={'na'};
-                        dataStruct.thisNative_prof={'na'};
-                        dataStruct.thisNative_freq={'na'};
-                        dataStruct.thisNative_age={'na'};
-                    end
-                case 'thisSecond'
-                    try
-                        dataStruct.thisSecond_lang=dataStruct.thisSecond{1}(1);
-                        dataStruct.thisSecond_prof=dataStruct.thisSecond{1}(2);
-                        dataStruct.thisSecond_freq=dataStruct.thisSecond{1}(3);
-                        dataStruct.thisSecond_age=dataStruct.thisSecond{1}(4);
-                    catch
-                        dataStruct.thisSecond_lang={'na'};
-                        dataStruct.thisSecond_prof={'na'};
-                        dataStruct.thisSecond_freq={'na'};
-                        dataStruct.thisSecond_age={'na'};
-                    end
-                case 'thisMusic'
-                    try
-                        dataStruct.thisMusic_inst=dataStruct.thisMusic{1}(1);
-                        dataStruct.thisMusic_dur=dataStruct.thisMusic{1}(2);
-                        if strcmp(dataStruct.thisMusic_inst,'n')
-                            dataStruct.thisMusic_inst={'na'};
-                        end
-                        if strcmp(dataStruct.thisMusic_dur,'a')
-                            dataStruct.thisMusic_dur={'na'};
-                        end
-                    catch
-                        dataStruct.thisMusic_inst={'na'};
-                        dataStruct.thisMusic_dur={'na'};
-                    end
-                otherwise
-                    if isempty(dataStruct.(fn{i}))
-                        dataStruct.(fn{i})={'na'};
-                    end
-            end
-        end
-        elecPath=sprintf('%s/subjects/%s/elecs/TDT_elecs_all.mat',elecLoc,dataStruct.thisSub{1});
+        thisSub=taskSubs(s);
+        elecPath=sprintf('%s/subjects/%s/elecs/TDT_elecs_all.mat',elecLoc,thisSub{1});
         try
             load(elecPath);
             thisSubAnat=anatomy(:,4);
@@ -359,7 +252,7 @@ for t=1:length(taskLbls)
             elecTbl=array2table(locCounts','VariableNames',elecCats);
             elecTbl=addvars(elecTbl,{thisSubHem},'NewVariableNames','hem','Before',elecCats{1});
         catch
-            fprintf('no elec file for %s\n',dataStruct.thisSub{1});
+            fprintf('no elec file for %s\n',thisSub{1});
             elecTbl=array2table(nan(size(elecCats))','VariableNames',elecCats);
             thisSubHem='bilateralOrUnknown';
             elecTbl=addvars(elecTbl,{thisSubHem},'NewVariableNames','hem','Before',elecCats{1});
@@ -369,12 +262,12 @@ for t=1:length(taskLbls)
         try
             thisValidity=cellstr(taskValidity{s});
         catch
-            thisValidity=cellstr(repmat('unknown',size(theseBlocks)));
+            thisValidity=cellstr(repmat('unknown',size(taskValidity{s})));
         end
         try
             thisInput=cellstr(taskInputs{s});
         catch
-            thisInput=cellstr(repmat('unknown',size(theseBlocks)));
+            thisInput=cellstr(repmat('unknown',size(taskInputs{s})));
         end
         if isa(theseTypes,'char')
             theseTypes=nan(size(theseBlocks));
@@ -387,14 +280,15 @@ for t=1:length(taskLbls)
         end
         if isa(theseBlocks,'double') && ~any(isnan(theseBlocks))
             for b=1:length(theseBlocks)
-                csvLine=[csvLine; [table(dataStruct.thisSub,theseBlocks(b),thisTask,theseTypes(b),thisValidity(b),thisInput(b)),dataStruct.thisNP,dataStruct.thisA,dataStruct.thisHand,dataStruct.thisImped,dataStruct.thisNative_lang,dataStruct.thisNative_prof,dataStruct.thisSecond_lang,dataStruct.thisSecond_prof,dataStruct.thisMusic_inst,dataStruct.thisMusic_dur,elecTbl]];
+                csvLine=[csvLine; [table(thisSub,theseBlocks(b),thisTask,theseTypes(b),thisValidity(b),thisInput(b)) elecTbl]];
             end
         end
     end
 end
 
-csvLine.Properties.VariableNames(1:16)={'SubjectID','Block','Task','Set','Valid','Inputs','NPID','AID','Handedness','SpeechImped','NativeLang','NativeLangProf','SecondLang','SecondLangProf','MusicInstrument','MusicDur'};
+csvLine.Properties.VariableNames(1:6)={'SubjectID','Block','Task','Set','Valid','Inputs'};
 
 csvLine=csvLine(~any(isnan(csvLine.superiortemporal),2),:);
 
-writetable(csvLine,sprintf('dataCSV_%s.csv',datetime('now','Format','uuuu-MM-dd')));
+writetable(csvLine,'dataCSV_031224.csv');
+
