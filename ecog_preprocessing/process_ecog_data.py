@@ -26,7 +26,7 @@ if __name__ == "__main__":
 	savepath = f"{cur_dir}/data/preprocessed"
 	print(tasks)
 
-	with open(f"{cur_dir}/task_database_logging/task_database_Info_20240313.csv", newline="") as csvfile:
+	with open(f"{cur_dir}/task_database_logging/task_database_Info.csv", newline="") as csvfile:
 		reader = csv.DictReader(csvfile)
 		rows = [row for row in reader]
 	print("Read CSV.")
