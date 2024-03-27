@@ -193,7 +193,11 @@ for e=1:length(ecIDs)
                                 splitTypes=split(strrep(tbl.Task(allTasks),' ',''),taskLbls{t});
                                 theseTypes=str2double(splitTypes(:,2));
                             catch
-                                theseTypes='checkManually';
+                                try
+                                    theseTypes=str2double(strrep((strrep(lower(tbl.Task(allTasks)),lower(taskLbls{t}),'')),' ',''));
+                                catch
+                                    theseTypes='checkManually';
+                                end
                             end
                         end
                         taskInfo{e,3,t}=theseTypes;
